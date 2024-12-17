@@ -1,0 +1,64 @@
+2024-12-17 12:53:53 | Starting DeribitTrader...
+2024-12-17 12:53:54 | Authentication successful. Access token acquired.
+2024-12-17 12:53:54 | WebSocket Server started on port 9002
+2024-12-17 12:53:55 | Failed to place order.
+2024-12-17 13:37:39 | Starting DeribitTrader...
+2024-12-17 13:37:40 | Authentication successful. Access token acquired.
+2024-12-17 13:37:40 | WebSocket Server started on port 9002
+2024-12-17 13:37:43 | Failed to place order.
+2024-12-17 13:44:32 | Starting DeribitTrader...
+2024-12-17 13:44:36 | Authentication successful. Access token acquired.
+2024-12-17 13:44:36 | WebSocket Server started on port 9002
+2024-12-17 13:44:38 | Failed to place order.
+2024-12-17 14:08:55 | Starting DeribitTrader...
+2024-12-17 14:08:56 | Authentication successful. Access token acquired.
+2024-12-17 14:08:56 | WebSocket Server started on port 9002
+2024-12-17 14:08:57 | Failed to place order.
+2024-12-17 14:52:40 | Starting DeribitTrader...
+2024-12-17 14:52:42 | Authentication successful. Access token acquired.
+2024-12-17 14:52:42 | WebSocket Server started on port 9002
+2024-12-17 14:52:43 | Failed to place order.
+2024-12-17 14:59:12 | Starting DeribitTrader...
+2024-12-17 14:59:13 | Authentication failed: {"error":{"code":13028,"message":"temporarily_unavailable"},"jsonrpc":"2.0"}
+2024-12-17 14:59:13 | Authentication failed. Exiting application.
+2024-12-17 14:59:31 | Starting DeribitTrader...
+2024-12-17 14:59:32 | Authentication failed: {"error":{"code":13028,"message":"temporarily_unavailable"},"jsonrpc":"2.0"}
+2024-12-17 14:59:32 | Authentication failed. Exiting application.
+2024-12-17 15:02:17 | Starting DeribitTrader...
+2024-12-17 15:02:18 | Authentication failed: {"error":{"code":13028,"message":"temporarily_unavailable"},"jsonrpc":"2.0"}
+2024-12-17 15:02:18 | Authentication failed. Exiting application.
+2024-12-17 18:06:49 | Starting DeribitTrader...
+2024-12-17 18:06:50 | Authentication successful. Access token acquired.
+2024-12-17 18:06:50 | WebSocket Server started on port 9002
+2024-12-17 18:06:51 | Failed to place order.
+2024-12-17 18:12:13 | Starting DeribitTrader...
+2024-12-17 18:12:15 | Authentication successful. Access token acquired.
+2024-12-17 18:12:15 | WebSocket Server started on port 9002
+2024-12-17 18:12:41 | Starting DeribitTrader...
+2024-12-17 18:12:42 | Authentication successful. Access token acquired.
+2024-12-17 18:12:42 | WebSocket Server started on port 9002
+2024-12-17 18:17:28 | Starting DeribitTrader...
+2024-12-17 18:17:29 | Authentication successful. Access token acquired.
+2024-12-17 18:17:29 | WebSocket Server started on port 9002
+2024-12-17 18:21:59 | Starting DeribitTrader...
+2024-12-17 18:22:00 | Authentication successful. Access token acquired.
+2024-12-17 18:22:00 | WebSocket Server started on port 9002
+2024-12-17 18:22:01 | Failed to place order.
+2024-12-17 18:26:12 | Starting DeribitTrader...
+2024-12-17 18:26:13 | Authentication successful. Access token acquired.
+2024-12-17 18:26:13 | WebSocket Server started on port 9002
+2024-12-17 18:29:27 | Starting DeribitTrader...
+2024-12-17 18:29:29 | Authentication successful. Access token acquired.
+2024-12-17 18:29:29 | WebSocket Server started on port 9002
+2024-12-17 18:38:10 | Starting DeribitTrader...
+2024-12-17 18:38:12 | Authentication successful. Access token acquired.
+2024-12-17 18:38:12 | Attempting to place order: Instrument=ETH-PERPETUAL, Side=sell, Quantity=40.000000, Price=4.000000
+2024-12-17 18:38:12 | WebSocket Server started on port 9002
+2024-12-17 18:38:13 | place_order response: {"id":1,"jsonrpc":"2.0","result":{"order":{"amount":40.0,"api":true,"average_price":0.0,"contracts":40.0,"creation_timestamp":1734440892715,"direction":"buy","filled_amount":0.0,"instrument_name":"ETH-PERPETUAL","is_liquidation":false,"label":"","last_update_timestamp":1734440892715,"max_show":40.0,"mmp":false,"order_id":"ETH-15569492675","order_state":"open","order_type":"limit","post_only":false,"price":4.0,"reduce_only":false,"replaced":false,"risk_reducing":false,"time_in_force":"good_til_cancelled","web":false},"trades":[]},"testnet":true,"usDiff":1685,"usIn":1734440892714040,"usOut":1734440892715725}
+2024-12-17 18:38:13 | place_order response missing 'order_id'. Response: {"id":1,"jsonrpc":"2.0","result":{"order":{"amount":40.0,"api":true,"average_price":0.0,"contracts":40.0,"creation_timestamp":1734440892715,"direction":"buy","filled_amount":0.0,"instrument_name":"ETH-PERPETUAL","is_liquidation":false,"label":"","last_update_timestamp":1734440892715,"max_show":40.0,"mmp":false,"order_id":"ETH-15569492675","order_state":"open","order_type":"limit","post_only":false,"price":4.0,"reduce_only":false,"replaced":false,"risk_reducing":false,"time_in_force":"good_til_cancelled","web":false},"trades":[]},"testnet":true,"usDiff":1685,"usIn":1734440892714040,"usOut":1734440892715725}
+2024-12-17 18:43:21 | Starting DeribitTrader...
+2024-12-17 18:43:22 | Authentication successful. Access token acquired.
+2024-12-17 18:43:22 | Attempting to place order: Instrument=ETH-PERPETUAL, Side=sell, Quantity=40.000000, Price=4.000000
+2024-12-17 18:43:22 | WebSocket Server started on port 9002
+2024-12-17 18:43:23 | place_order response: {"id":1,"jsonrpc":"2.0","result":{"order":{"amount":40.0,"api":true,"average_price":0.0,"contracts":40.0,"creation_timestamp":1734441202845,"direction":"buy","filled_amount":0.0,"instrument_name":"ETH-PERPETUAL","is_liquidation":false,"label":"","last_update_timestamp":1734441202845,"max_show":40.0,"mmp":false,"order_id":"ETH-15569503009","order_state":"open","order_type":"limit","post_only":false,"price":4.0,"reduce_only":false,"replaced":false,"risk_reducing":false,"time_in_force":"good_til_cancelled","web":false},"trades":[]},"testnet":true,"usDiff":40256,"usIn":1734441202805605,"usOut":1734441202845861}
+2024-12-17 18:43:23 | Placed order successfully. Order ID: ETH-15569503009
