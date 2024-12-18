@@ -15,7 +15,23 @@ git clone https://github.com/nlohmann/json.git libs/json
 ```bash
 git clone https://github.com/zaphoyd/websocketpp.git libs/websocketpp
 ```
+### Create config.json in root directory.
+- ```api_key = client_id```
+- ```api_secret = client_secret```
 
+Get the ```client_id``` and ```client_secret``` from https://test.deribit.com/account/BTC/api.
+
+```bash
+{
+    "api_key": "",
+    "api_secret": "",
+    "websocket_url": "wss://test.deribit.com/ws/api/v2",
+    "rest_url": "https://test.deribit.com/api/v2",
+    "websocket_port": 9002,
+    "log_file": "../logs/app.log"
+}
+
+```
 ### Build the project.
 ```bash
 mkdir build && cd build && cmake .. && make
