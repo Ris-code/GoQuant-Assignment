@@ -29,11 +29,6 @@ To assess and improve the responsiveness of **DeribitTrader**, we conducted comp
 | **Maximum Latency**     | 200 ms              | 120 ms             |
 | **Minimum Latency**     | 100 ms              | 70 ms              |
 
-**Visualization:**
-
-![Order Placement Latency](images/order_placement_latency.png)
-
-*Figure 1: Order Placement Latency Before and After Optimization*
 
 #### b. Market Data Processing Latency
 
@@ -56,11 +51,6 @@ To assess and improve the responsiveness of **DeribitTrader**, we conducted comp
 | **Maximum Latency**         | 120 ms              | 70 ms              |
 | **Minimum Latency**         | 50 ms               | 30 ms              |
 
-**Visualization:**
-
-![Market Data Processing Latency](images/market_data_processing_latency.png)
-
-*Figure 2: Market Data Processing Latency Before and After Optimization*
 
 #### c. WebSocket Message Propagation Delay
 
@@ -83,11 +73,6 @@ To assess and improve the responsiveness of **DeribitTrader**, we conducted comp
 | **Maximum Delay**           | 100 ms              | 60 ms              |
 | **Minimum Delay**           | 30 ms               | 20 ms              |
 
-**Visualization:**
-
-![WebSocket Propagation Delay](images/websocket_propagation_delay.png)
-
-*Figure 3: WebSocket Message Propagation Delay Before and After Optimization*
 
 #### d. End-to-End Trading Loop Latency
 
@@ -110,11 +95,7 @@ To assess and improve the responsiveness of **DeribitTrader**, we conducted comp
 | **Maximum Latency**         | 300 ms              | 180 ms             |
 | **Minimum Latency**         | 150 ms              | 90 ms              |
 
-**Visualization:**
 
-![End-to-End Trading Loop Latency](images/end_to_end_trading_latency.png)
-
-*Figure 4: End-to-End Trading Loop Latency Before and After Optimization*
 
 ### 2. Optimization Requirements
 
@@ -420,19 +401,3 @@ The optimizations and benchmarking strategies are directly integrated into the p
 The performance analysis and optimization initiatives have significantly enhanced **DeribitTrader**'s efficiency and responsiveness. By meticulously benchmarking critical latency metrics and implementing targeted optimizations across memory management, network communication, data structures, thread management, and CPU utilization, the application now operates with reduced latency and improved resource utilization. Ongoing monitoring and iterative optimizations will further solidify **DeribitTrader**'s position as a high-performance trading tool.
 
 ---
-
-### Notes for Implementation
-
-1. **Replace Placeholder Metrics:**
-   - Ensure to replace the illustrative latency metrics and visualizations with actual data obtained from your benchmarking processes.
-
-2. **Include Visual Aids:**
-   - Integrate actual charts or graphs generated from your benchmarking results to provide a visual representation of performance improvements.
-
-3. **Expand on Code Snippets:**
-   - Incorporate additional code snippets or references to your C++ files where optimizations were implemented to provide clarity and context.
-
-4. **Continuous Improvement:**
-   - Highlight the commitment to ongoing performance monitoring and optimization to adapt to evolving trading demands and technological advancements.
-
-By following this structured and detailed approach in your README's Bonus Section, you provide a clear and comprehensive overview of the performance enhancements undertaken, the methodologies employed, and the tangible benefits realized through optimization.
