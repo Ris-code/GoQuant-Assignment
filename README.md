@@ -1,5 +1,31 @@
 # GoQuant-Assignment
 
+## Installation And Setup
+
+### Clone the repository and move to project directory.
+```bash
+git clone https://github.com/Ris-code/GoQuant-Assignment.git
+cd GoQuant-Assignment
+```
+### Install some third party libraries in the ```libs``` directory.
+
+```bash
+git clone https://github.com/nlohmann/json.git libs/json
+```
+```bash
+git clone https://github.com/zaphoyd/websocketpp.git libs/websocketpp
+```
+
+### Build the project.
+```bash
+mkdir build && cd build && cmake .. && make
+```
+
+### Execute the program.
+```bash
+./GoQuant-Assignment
+```
+
 ## Performance Analysis and Optimization
 
 Enhancing the performance of **DeribitTrader** is pivotal to ensure low-latency trading operations, efficient resource utilization, and a seamless user experience. This section outlines the strategies employed to benchmark and optimize the application's performance, focusing on critical metrics and optimization techniques.
@@ -402,28 +428,3 @@ The performance analysis and optimization initiatives have significantly enhance
 
 ---
 
-## Installation And Setup
-
-### Clone the repository and move to project directory.
-```bash
-git clone https://github.com/Ris-code/GoQuant-Assignment.git
-cd GoQuant-Assignment
-```
-### Install some third party libraries in the ```libs``` directory.
-
-```bash
-git clone https://github.com/nlohmann/json.git libs/json
-```
-```bash
-git clone https://github.com/zaphoyd/websocketpp.git libs/websocketpp
-```
-
-### Build the project.
-```bash
-mkdir build && cd build && cmake .. && make
-```
-
-### Execute the program.
-```bash
-./GoQuant-Assignment
-```
