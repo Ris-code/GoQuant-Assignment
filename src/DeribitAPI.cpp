@@ -343,7 +343,7 @@ nlohmann::json DeribitAPI::modify_order(const std::string& order_id, double new_
         {"amount", new_quantity},
         {"price", new_price}
     };
-    return send_request("private/modify", params, true);
+    return send_request("private/edit", params, true);
 }
 
 // Get Order Book

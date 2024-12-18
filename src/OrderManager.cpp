@@ -40,15 +40,11 @@ bool OrderManager::cancel_order(const std::string& order_id) {
     auto response = api_.cancel_order(order_id);
     Logger::getInstance().log("cancel_order response: " + response.dump());
     
-    if (response.contains("result") && response["result"].is_boolean()) {
-        if (response["result"].get<bool>()) {
-            std::lock_guard<std::mutex> lock(mtx_);
-            orders_.erase(order_id);
-            Logger::getInstance().log("Cancelled order successfully. Order ID: " + order_id);
-            return true;
-        } else {
-            Logger::getInstance().log("API reported failure to cancel order. Order ID: " + order_id);
-        }
+    if (response.contains("result") && response["result"].is_object()) {
+        std::lock_guard<std::mutex> lock(mtx_);
+        orders_.erase(order_id);
+        Logger::getInstance().log("Cancelled order successfully. Order ID: " + order_id);
+        return true;
     } else if (response.contains("error")) {
         std::string error_message = response["error"].contains("message") ? response["error"]["message"].get<std::string>() : "Unknown error";
         Logger::getInstance().log("Failed to cancel order. API Error: " + error_message);
