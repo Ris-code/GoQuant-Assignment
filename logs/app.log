@@ -62,3 +62,1060 @@
 2024-12-17 18:43:22 | WebSocket Server started on port 9002
 2024-12-17 18:43:23 | place_order response: {"id":1,"jsonrpc":"2.0","result":{"order":{"amount":40.0,"api":true,"average_price":0.0,"contracts":40.0,"creation_timestamp":1734441202845,"direction":"buy","filled_amount":0.0,"instrument_name":"ETH-PERPETUAL","is_liquidation":false,"label":"","last_update_timestamp":1734441202845,"max_show":40.0,"mmp":false,"order_id":"ETH-15569503009","order_state":"open","order_type":"limit","post_only":false,"price":4.0,"reduce_only":false,"replaced":false,"risk_reducing":false,"time_in_force":"good_til_cancelled","web":false},"trades":[]},"testnet":true,"usDiff":40256,"usIn":1734441202805605,"usOut":1734441202845861}
 2024-12-17 18:43:23 | Placed order successfully. Order ID: ETH-15569503009
+2024-12-17 20:57:26 | Starting DeribitTrader...
+2024-12-17 20:57:26 | Could not create WebSocket connection: endpoint not secure
+2024-12-17 20:57:29 | Authentication successful. Access token acquired.
+2024-12-17 20:57:29 | WebSocket Server started on port 9002
+2024-12-17 20:57:33 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.raw
+2024-12-17 20:57:33 | Failed to subscribe to channel: book.ETH-PERPETUAL.raw
+2024-12-17 21:07:08 | Starting DeribitTrader...
+2024-12-17 21:07:08 | Could not create WebSocket connection: endpoint not secure
+2024-12-17 21:07:11 | Authentication successful. Access token acquired.
+2024-12-17 21:07:11 | WebSocket Server started on port 9002
+2024-12-17 21:07:15 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 21:07:15 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 21:32:39 | Starting DeribitTrader...
+2024-12-17 21:32:39 | Could not create WebSocket connection: endpoint not secure
+2024-12-17 21:32:39 | Authentication successful. Access token acquired.
+2024-12-17 21:32:39 | WebSocket Server started on port 9002
+2024-12-17 21:32:42 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.raw
+2024-12-17 21:32:42 | Failed to subscribe to channel: book.ETH-PERPETUAL.raw
+2024-12-17 21:36:20 | Starting DeribitTrader...
+2024-12-17 21:36:20 | Could not create WebSocket connection: endpoint not secure
+2024-12-17 21:36:20 | Authentication successful. Access token acquired.
+2024-12-17 21:36:20 | WebSocket Server started on port 9002
+2024-12-17 21:36:23 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 21:36:23 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 21:46:15 | Starting Real-Time Market Data App...
+2024-12-17 21:46:15 | Could not create WebSocket connection: endpoint not secure
+2024-12-17 21:46:16 | Authentication successful. Access token acquired.
+2024-12-17 21:46:16 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 21:46:16 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:05:25 | Starting DeribitTrader...
+2024-12-17 22:05:25 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:05:26 | Authentication successful. Access token acquired.
+2024-12-17 22:05:26 | WebSocket Server started on port 9002
+2024-12-17 22:05:27 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:05:27 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:05:30 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:05:31 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:05:36 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:05:37 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:05:42 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:05:42 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:05:47 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:05:48 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:05:53 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:05:53 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:05:58 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:05:59 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:04 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:04 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:09 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:10 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:15 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:15 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:20 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:21 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:26 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:27 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:32 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:32 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:37 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:38 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:43 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:43 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:48 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:49 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:54 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:06:54 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:06:59 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:07:03 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:07:08 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:07:08 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:07:13 | Attempting to reconnect to Deribit WebSocket...
+2024-12-17 22:07:14 | Failed to connect to Deribit WebSocket.
+2024-12-17 22:21:23 | Starting DeribitTrader...
+2024-12-17 22:21:23 | Could not create WebSocket connection: endpoint not secure
+2024-12-17 22:21:24 | Authentication successful. Access token acquired.
+2024-12-17 22:21:24 | WebSocket Server error: Underlying Transport Error
+2024-12-17 22:21:27 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:21:27 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:22:47 | Starting DeribitTrader...
+2024-12-17 22:22:47 | Could not create WebSocket connection: endpoint not secure
+2024-12-17 22:22:48 | Authentication successful. Access token acquired.
+2024-12-17 22:22:48 | WebSocket Server error: Underlying Transport Error
+2024-12-17 22:22:51 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:22:51 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:31:21 | Starting DeribitTrader...
+2024-12-17 22:31:21 | Could not create WebSocket connection: Connection creation attempt failed
+2024-12-17 22:31:22 | Authentication successful. Access token acquired.
+2024-12-17 22:31:22 | WebSocket Server error: Underlying Transport Error
+2024-12-17 22:31:23 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:31:23 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:35:27 | Starting DeribitTrader...
+2024-12-17 22:35:27 | Could not create WebSocket connection: Connection creation attempt failed
+2024-12-17 22:35:28 | Authentication successful. Access token acquired.
+2024-12-17 22:35:28 | WebSocket Server error: Underlying Transport Error
+2024-12-17 22:35:29 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 22:35:29 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:03:47 | Starting DeribitTrader...
+2024-12-17 23:03:47 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-17 23:03:47 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-17 23:03:48 | Authentication successful. Access token acquired.
+2024-12-17 23:03:48 | WebSocket Server error: Underlying Transport Error
+2024-12-17 23:03:49 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:03:49 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:16:49 | Starting DeribitTrader...
+2024-12-17 23:16:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-17 23:16:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-17 23:16:50 | Authentication successful. Access token acquired.
+2024-12-17 23:16:50 | WebSocket Server error: Underlying Transport Error
+2024-12-17 23:16:52 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:16:52 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:48:08 | Starting DeribitTrader...
+2024-12-17 23:48:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-17 23:48:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-17 23:48:27 | Authentication successful. Access token acquired.
+2024-12-17 23:48:28 | WebSocket Server error: Underlying Transport Error
+2024-12-17 23:48:39 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:48:39 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:54:35 | Starting DeribitTrader...
+2024-12-17 23:54:35 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-17 23:54:35 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-17 23:55:09 | Authentication successful. Access token acquired.
+2024-12-17 23:55:09 | WebSocket Server error: Underlying Transport Error
+2024-12-17 23:55:26 | CURL error: Couldn't resolve host name
+2024-12-17 23:55:26 | JSON parse error: [json.exception.parse_error.101] parse error at line 1, column 1: attempting to parse an empty input; check that your input string or stream contains the expected JSON
+2024-12-17 23:55:26 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:55:26 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-17 23:56:36 | Starting DeribitTrader...
+2024-12-17 23:56:36 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-17 23:56:36 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-17 23:59:09 | Starting DeribitTrader...
+2024-12-17 23:59:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-17 23:59:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-17 23:59:31 | Authentication successful. Access token acquired.
+2024-12-17 23:59:31 | WebSocket Server error: Underlying Transport Error
+2024-12-18 00:00:08 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:00:08 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:06:29 | Starting DeribitTrader...
+2024-12-18 00:06:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 00:06:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 00:06:30 | Authentication successful. Access token acquired.
+2024-12-18 00:06:30 | WebSocket Server started on port 9002
+2024-12-18 00:06:32 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:06:32 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:22:00 | Starting DeribitTrader...
+2024-12-18 00:22:00 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 00:22:00 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 00:22:01 | Authentication successful. Access token acquired.
+2024-12-18 00:22:01 | WebSocket Server started on port 9002
+2024-12-18 00:22:03 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:22:03 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:28:19 | Starting DeribitTrader...
+2024-12-18 00:28:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 00:28:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 00:28:20 | Authentication successful. Access token acquired.
+2024-12-18 00:28:20 | WebSocket Server started on port 9002
+2024-12-18 00:28:22 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:28:23 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:28:24 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:28:25 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:28:26 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:28:27 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 00:28:27 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:40:54 | Starting DeribitTrader...
+2024-12-18 00:40:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 00:40:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 00:40:55 | Authentication successful. Access token acquired.
+2024-12-18 00:40:55 | WebSocket Server started on port 9002
+2024-12-18 00:40:57 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:40:58 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:40:59 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:41:00 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:41:01 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 00:41:02 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 00:41:02 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 00:59:59 | Starting DeribitTrader...
+2024-12-18 00:59:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 00:59:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:00:00 | Authentication successful. Access token acquired.
+2024-12-18 01:00:00 | WebSocket Server started on port 9002
+2024-12-18 01:00:02 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:00:03 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:00:04 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:00:05 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:00:06 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:00:07 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 01:00:07 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 01:05:17 | Starting DeribitTrader...
+2024-12-18 01:05:17 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:05:17 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:05:18 | Authentication successful. Access token acquired.
+2024-12-18 01:05:18 | WebSocket Server started on port 9002
+2024-12-18 01:05:20 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:05:20 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:05:20 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:05:21 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:05:21 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:05:21 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:05:22 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:05:22 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:05:22 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:05:23 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:05:23 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:05:23 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:05:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:05:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:05:24 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:05:25 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 01:05:25 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 01:18:30 | Starting DeribitTrader...
+2024-12-18 01:18:30 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:18:30 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:18:31 | Authentication successful. Access token acquired.
+2024-12-18 01:18:31 | WebSocket Server started on port 9002
+2024-12-18 01:18:33 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:18:33 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:18:33 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:18:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:18:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:18:34 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:18:35 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:18:35 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 01:18:35 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:43:06 | Starting DeribitTrader...
+2024-12-18 01:43:06 | Attempting WebSocket connection to: ws://test.deribit.com/ws/api/v2
+2024-12-18 01:43:06 | WebSocket connection initiated (non-TLS).
+2024-12-18 01:43:07 | WebSocket connection failed.
+2024-12-18 01:43:07 | Authentication successful. Access token acquired.
+2024-12-18 01:43:07 | WebSocket Server started on port 9002
+2024-12-18 01:43:09 | Attempting WebSocket connection to: ws://test.deribit.com/ws/api/v2
+2024-12-18 01:43:09 | WebSocket connection initiated (non-TLS).
+2024-12-18 01:43:09 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:43:10 | Attempting WebSocket connection to: ws://test.deribit.com/ws/api/v2
+2024-12-18 01:43:10 | WebSocket connection initiated (non-TLS).
+2024-12-18 01:43:10 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:43:11 | Attempting WebSocket connection to: ws://test.deribit.com/ws/api/v2
+2024-12-18 01:43:11 | WebSocket connection initiated (non-TLS).
+2024-12-18 01:43:11 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:43:12 | Attempting WebSocket connection to: ws://test.deribit.com/ws/api/v2
+2024-12-18 01:43:12 | WebSocket connection initiated (non-TLS).
+2024-12-18 01:43:12 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:43:13 | Attempting WebSocket connection to: ws://test.deribit.com/ws/api/v2
+2024-12-18 01:43:13 | WebSocket connection initiated (non-TLS).
+2024-12-18 01:43:13 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:43:14 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 01:43:14 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 01:48:35 | Starting DeribitTrader...
+2024-12-18 01:48:35 | Attempting WebSocket connection to: ws://test.deribit.com/ws/api/v2
+2024-12-18 01:48:35 | WebSocket connection initiated (non-TLS).
+2024-12-18 01:48:35 | JSON parse error: [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - invalid literal; last read: '<'
+2024-12-18 01:48:35 | Authentication failed: null
+2024-12-18 01:48:35 | Authentication failed. Exiting application.
+2024-12-18 01:48:35 | WebSocket connection failed.
+2024-12-18 01:55:54 | Starting DeribitTrader...
+2024-12-18 01:55:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:55:54 | WebSocket connection creation failed: endpoint not secure
+2024-12-18 01:55:55 | Authentication successful. Access token acquired.
+2024-12-18 01:55:55 | WebSocket Server started on port 9002
+2024-12-18 01:55:57 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:55:57 | WebSocket connection creation failed: endpoint not secure
+2024-12-18 01:55:57 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:55:58 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:55:58 | WebSocket connection creation failed: endpoint not secure
+2024-12-18 01:55:58 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:55:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:55:59 | WebSocket connection creation failed: endpoint not secure
+2024-12-18 01:55:59 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:56:00 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:56:00 | WebSocket connection creation failed: endpoint not secure
+2024-12-18 01:56:00 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:56:01 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 01:56:01 | WebSocket connection creation failed: endpoint not secure
+2024-12-18 01:56:01 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 01:56:02 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 01:56:02 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 02:00:42 | Starting DeribitTrader...
+2024-12-18 02:00:42 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:00:42 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:00:43 | Authentication successful. Access token acquired.
+2024-12-18 02:00:43 | WebSocket Server started on port 9002
+2024-12-18 02:00:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:00:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:00:44 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:00:45 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:00:45 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:00:45 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:00:46 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:00:46 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:00:46 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:00:47 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:00:47 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:00:47 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:00:48 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:00:48 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:00:48 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:00:49 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 02:00:49 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 02:12:17 | Starting DeribitTrader...
+2024-12-18 02:12:17 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:12:17 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:12:18 | Authentication successful. Access token acquired.
+2024-12-18 02:12:18 | WebSocket Server started on port 9002
+2024-12-18 02:12:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:12:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:12:19 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:12:20 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:12:20 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:12:20 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:12:21 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:12:21 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:12:21 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:12:22 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:12:22 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:12:22 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:12:23 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 02:12:23 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 02:12:23 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 02:12:24 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 02:12:24 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 11:43:48 | Starting DeribitTrader...
+2024-12-18 11:43:50 | Authentication successful. Access token acquired.
+2024-12-18 11:43:50 | WebSocket Server started on port 9002
+2024-12-18 11:43:52 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 11:43:53 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 11:43:54 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 11:43:55 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 11:43:56 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 11:43:57 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 11:43:57 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 12:00:45 | Starting DeribitTrader...
+2024-12-18 12:00:47 | Authentication successful. Access token acquired.
+2024-12-18 12:00:47 | WebSocket Server started on port 9002
+2024-12-18 12:00:50 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:00:51 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:00:52 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:00:53 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:00:54 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:00:55 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 12:00:55 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 12:14:06 | Starting DeribitTrader...
+2024-12-18 12:14:09 | Authentication successful. Access token acquired.
+2024-12-18 12:14:09 | WebSocket Server started on port 9002
+2024-12-18 12:14:11 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:14:12 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:14:13 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:14:14 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:14:15 | WebSocket not connected. Retrying to subscribe...
+2024-12-18 12:14:16 | Failed to subscribe after retries. WebSocket still not connected.
+2024-12-18 12:14:16 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 12:44:19 | Starting DeribitTrader...
+2024-12-18 12:44:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:20 | Authentication successful. Access token acquired.
+2024-12-18 12:44:20 | WebSocket Server started on port 9002
+2024-12-18 12:44:22 | WebSocket not connected. Cannot subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 12:44:22 | Failed to subscribe to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 12:44:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:44:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:44:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:45:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:45:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:46:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:46:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:47:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:47:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:48:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:48:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:49:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:49:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:50:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:50:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:51:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:51:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:52:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:52:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:53:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:53:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:54:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:54:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:55:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:55:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:56:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:56:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:57:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:57:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:58:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:58:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 12:59:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 12:59:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:39 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:39 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:44 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:44 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:49 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:49 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:54 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:54 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:00:59 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:00:59 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:01:04 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:01:04 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:01:09 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:01:09 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:01:14 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:01:14 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:01:19 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:01:19 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:01:24 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:01:24 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:01:29 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:01:29 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:01:34 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:01:34 | WebSocket connection creation failed: Connection creation attempt failed
+2024-12-18 13:19:48 | Starting DeribitTrader...
+2024-12-18 13:19:48 | Attempting WebSocket connection to: wss://test.deribit.com/ws/api/v2
+2024-12-18 13:19:48 | TLS context initialized successfully.
+2024-12-18 13:19:48 | WebSocket connection initiated.
+2024-12-18 13:19:49 | Authentication successful. Access token acquired.
+2024-12-18 13:19:49 | WebSocket Server started on port 9002
+2024-12-18 13:19:49 | WebSocket connection established.
+2024-12-18 13:19:50 | Subscribed to Deribit channel: book.ETH-PERPETUAL.100ms
+2024-12-18 13:19:50 | Subscribed to channel: book.ETH-PERPETUAL.100ms
+2024-12-18 13:19:51 | Received WebSocket message: {"jsonrpc":"2.0","id":1,"result":["book.ETH-PERPETUAL.100ms"],"usIn":1734508191053454,"usOut":1734508191053616,"usDiff":162,"testnet":true}
+2024-12-18 13:19:51 | Subscription successful or received result: {"id":1,"jsonrpc":"2.0","result":["book.ETH-PERPETUAL.100ms"],"testnet":true,"usDiff":162,"usIn":1734508191053454,"usOut":1734508191053616}
+2024-12-18 13:19:51 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508190525,"type":"snapshot","change_id":15574989901,"instrument_name":"ETH-PERPETUAL","bids":[["new",3710.25,8.5e4],["new",3710.2,3.2e5],["new",3710.15,2.0e4],["new",3654.65,1.0],["new",3650.7,306.0],["new",3296.95,30.0],["new",3.2e3,42.0],["new",3.0e3,1.0],["new",2937.65,331.0],["new",2933.05,16.0],["new",2928.4,28.0],["new",2923.8,48.0],["new",2919.2,84.0],["new",2914.6,148.0],["new",2909.95,259.0],["new",2905.35,452.0],["new",2.5e3,9.0],["new",2363.0,100.0],["new",2320.0,46.0],["new",2307.0,1.0e3],["new",2.3e3,20.0],["new",2.2e3,4.0],["new",2032.0,100.0],["new",2027.05,1.0],["new",2.0e3,62.0],["new",1988.5,199.0],["new",1988.3,199.0],["new",1953.5,390.0],["new",1.9e3,100.0],["new",1867.1,28.0],["new",1857.0,1.0],["new",1856.8,186.0],["new",1855.7,744.0],["new",1.5e3,1402138.0],["new",1242.0,64580.0],["new",1215.1,223.0],["new",1.2e3,1.0],["new",1199.9,1.0e4],["new",1193.9,2.0e4],["new",1102.0,43740.0],["new",1.0e3,107.0],["new",942.0,131220.0],["new",900.0,4.5e3],["new",800.0,1.74e4],["new",762.0,393660.0],["new",750.8,386.0],["new",701.0,45.0],["new",691.0,49.0],["new",681.0,53.0],["new",671.0,56.0],["new",661.0,59.0],["new",651.0,61.0],["new",641.0,61.0],["new",631.0,62.0],["new",623.45,915.0],["new",621.0,62.0],["new",611.0,60.0],["new",601.0,58.0],["new",600.0,2.5e3],["new",591.0,55.0],["new",581.0,52.0],["new",571.0,47.0],["new",561.0,43.0],["new",551.0,37.0],["new",541.0,32.0],["new",531.0,27.0],["new",521.0,22.0],["new",511.0,17.0],["new",501.0,13.0],["new",500.0,3090.0],["new",400.0,250029.0],["new",332.1,301.0],["new",324.65,482.0],["new",317.2,784.0],["new",309.75,1267.0],["new",302.35,2052.0],["new",300.0,251006.0],["new",294.9,3320.0],["new",287.45,5372.0],["new",280.75,186374.0],["new",260.0,5.0e5],["new",250.0,5.0],["new",212.0,2.0],["new",200.0,20.0],["new",195.0,2.0e3],["new",181.0,1.2e5],["new",172.05,30.0],["new",143.55,20.0],["new",140.0,1.0e5],["new",135.0,200010.0],["new",130.0,300020.0],["new",125.0,400020.0],["new",120.0,30.0],["new",115.0,20.0],["new",110.0,30.0],["new",105.0,20.0],["new",100.0,82.0],["new",58.0,1.0],["new",50.0,610.0],["new",45.0,1.0e7],["new",22.2,1.0],["new",22.0,22.0],["new",21.0,10.0],["new",20.0,2080.0],["new",10.0,112.0],["new",9.95,1.0],["new",5.0,3.0],["new",4.0,1.8e3],["new",1.45,1330.0],["new",1.0,10.0],["new",0.5,1.0]],"asks":[["new",3723.7,4.25e5],["new",3855.45,5138351.0],["new",3910.0,947850662.0],["new",3910.2,1.0],["new",3922.6,100.0],["new",3949.1,100.0],["new",4.5e3,585.0],["new",5.0e3,15450.0],["new",5349.75,2140.0],["new",5555.0,10001.0],["new",5932.7,593.0],["new",6023.55,1204.0],["new",6068.0,607.0],["new",7180.4,1.0],["new",9999.95,1.0],["new",1.0e4,5.0],["new",18285.0,3.0e4],["new",2.0e4,3.4e3],["new",3.85e4,40.0],["new",51853.0,10.0]]}}}
+2024-12-18 13:19:52 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508192532,"type":"change","change_id":15574989915,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574989901}}}
+2024-12-18 13:19:53 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508192926,"type":"change","change_id":15574989916,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.55,8.0e4],["change",3723.7,3.45e5]],"prev_change_id":15574989915}}}
+2024-12-18 13:19:53 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508193082,"type":"change","change_id":15574989923,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3710.2,0.0],["new",3709.4,3.2e5]],"asks":[["new",3722.9,4.2e5],["delete",3723.55,0.0],["change",3723.7,5.0e3]],"prev_change_id":15574989916}}}
+2024-12-18 13:19:53 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508193440,"type":"change","change_id":15574989938,"instrument_name":"ETH-PERPETUAL","bids":[["change",3710.25,5.0e3],["new",3709.35,8.0e4]],"asks":[["change",3722.9,4.25e5],["delete",3723.7,0.0]],"prev_change_id":15574989923}}}
+2024-12-18 13:19:54 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508193900,"type":"change","change_id":15574989946,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3709.4,0.0],["new",3708.35,3.2e5]],"asks":[["new",3722.4,1.0e5],["change",3722.9,5.0e3],["new",3723.05,3.2e5]],"prev_change_id":15574989938}}}
+2024-12-18 13:19:54 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508194248,"type":"change","change_id":15574990011,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3710.25,0.0],["delete",3710.15,0.0],["change",3708.35,3.45e5]],"asks":[["new",3722.45,3.2e5],["delete",3723.05,0.0]],"prev_change_id":15574989946}}}
+2024-12-18 13:19:54 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508194532,"type":"change","change_id":15574990131,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3709.35,0.0],["new",3708.3,8.0e4],["new",1857.0,1.0]],"asks":[["change",3722.45,3.25e5],["delete",3722.9,0.0]],"prev_change_id":15574990011}}}
+2024-12-18 13:19:55 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508194860,"type":"change","change_id":15574990138,"instrument_name":"ETH-PERPETUAL","bids":[["change",3708.35,2.5e4],["delete",3708.3,0.0],["new",3707.25,8.0e4],["new",3697.1,3.2e5]],"asks":[["change",3722.4,2.0e4],["change",3722.45,5.0e3],["new",3724.05,8.0e4],["new",3733.6,3.2e5]],"prev_change_id":15574990131}}}
+2024-12-18 13:19:55 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508195227,"type":"change","change_id":15574990190,"instrument_name":"ETH-PERPETUAL","bids":[["change",3708.35,5.0e3],["new",3706.4,3.4e5],["delete",3697.1,0.0]],"asks":[["delete",3722.4,0.0],["new",3724.5,2.0e4],["new",3724.9,3.2e5],["delete",3733.6,0.0]],"prev_change_id":15574990138}}}
+2024-12-18 13:19:55 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508195538,"type":"change","change_id":15574990360,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3708.35,0.0],["delete",3707.25,0.0],["change",3706.4,2.0e4],["new",3705.9,4.05e5]],"asks":[],"prev_change_id":15574990190}}}
+2024-12-18 13:19:56 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508195827,"type":"change","change_id":15574990517,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3722.45,0.0],["delete",3724.05,0.0],["delete",3724.9,0.0],["new",3725.55,4.05e5],["new",3854.1,5138351.0],["delete",3855.45,0.0]],"prev_change_id":15574990360}}}
+2024-12-18 13:19:56 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508196539,"type":"change","change_id":15574990536,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574990517}}}
+2024-12-18 13:19:57 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508197198,"type":"change","change_id":15574990548,"instrument_name":"ETH-PERPETUAL","bids":[["change",3705.9,8.5e4],["new",3704.85,3.2e5]],"asks":[],"prev_change_id":15574990536}}}
+2024-12-18 13:19:57 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508197816,"type":"change","change_id":15574990610,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.4,0.0],["change",3705.9,5.0e3],["new",3704.25,1.0e5]],"asks":[["new",3725.1,4.0e5],["change",3725.55,5.0e3]],"prev_change_id":15574990548}}}
+2024-12-18 13:19:58 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508198452,"type":"change","change_id":15574990712,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3724.95,4.0e5],["new",3725.05,5.0e3],["delete",3725.1,0.0],["delete",3725.55,0.0]],"prev_change_id":15574990610}}}
+2024-12-18 13:19:58 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508198681,"type":"change","change_id":15574990718,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3704.85,0.0],["new",1857.0,1.0]],"asks":[],"prev_change_id":15574990712}}}
+2024-12-18 13:19:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508199135,"type":"change","change_id":15574990744,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3705.9,0.0],["delete",3704.25,0.0],["new",3700.55,1.0e5],["new",3700.35,3.2e5],["new",3699.95,5.0e3]],"asks":[["change",3724.95,8.0e4],["new",3726.5,3.2e5]],"prev_change_id":15574990718}}}
+2024-12-18 13:19:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508199338,"type":"change","change_id":15574990750,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3700.35,0.0],["new",3699.15,3.2e5]],"asks":[["delete",3724.95,0.0],["delete",3726.5,0.0],["new",3727.8,4.0e5]],"prev_change_id":15574990744}}}
+2024-12-18 13:19:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508199730,"type":"change","change_id":15574990756,"instrument_name":"ETH-PERPETUAL","bids":[["change",3700.55,2.0e4],["new",3697.9,8.0e4]],"asks":[["delete",3724.5,0.0],["new",3728.45,2.0e4]],"prev_change_id":15574990750}}}
+2024-12-18 13:20:00 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508199900,"type":"change","change_id":15574990765,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3700.55,0.0],["delete",3699.15,0.0],["new",3697.5,3.4e5]],"asks":[["change",3727.8,8.0e4],["new",3729.3,3.2e5]],"prev_change_id":15574990756}}}
+2024-12-18 13:20:00 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508200230,"type":"change","change_id":15574990790,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3699.95,0.0],["new",3697.05,5.0e3]],"asks":[["delete",3725.05,0.0],["new",3729.8,5.0e3]],"prev_change_id":15574990765}}}
+2024-12-18 13:20:00 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508200543,"type":"change","change_id":15574990963,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574990790}}}
+2024-12-18 13:20:02 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508202445,"type":"change","change_id":15574991422,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3852.15,5138351.0],["delete",3854.1,0.0]],"prev_change_id":15574990963}}}
+2024-12-18 13:20:02 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508202544,"type":"change","change_id":15574991423,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574991422}}}
+2024-12-18 13:20:04 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508204185,"type":"change","change_id":15574991449,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3729.45,5.0e3],["delete",3729.8,0.0]],"prev_change_id":15574991423}}}
+2024-12-18 13:20:04 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508204603,"type":"change","change_id":15574991509,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[["new",3729.2,3.2e5],["delete",3729.3,0.0]],"prev_change_id":15574991449}}}
+2024-12-18 13:20:05 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508204963,"type":"change","change_id":15574991517,"instrument_name":"ETH-PERPETUAL","bids":[["new",3697.45,5.0e3],["delete",3697.05,0.0]],"asks":[],"prev_change_id":15574991509}}}
+2024-12-18 13:20:05 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508205296,"type":"change","change_id":15574991527,"instrument_name":"ETH-PERPETUAL","bids":[["new",3697.7,3.2e5],["change",3697.5,2.0e4]],"asks":[["new",3728.95,3.2e5],["delete",3729.2,0.0]],"prev_change_id":15574991517}}}
+2024-12-18 13:20:05 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508205617,"type":"change","change_id":15574991534,"instrument_name":"ETH-PERPETUAL","bids":[["change",3697.9,4.2e5],["delete",3697.7,0.0],["delete",3697.5,0.0]],"asks":[["new",3728.8,3.2e5],["delete",3728.95,0.0]],"prev_change_id":15574991527}}}
+2024-12-18 13:20:06 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508205956,"type":"change","change_id":15574991539,"instrument_name":"ETH-PERPETUAL","bids":[["new",3698.1,4.0e5],["change",3697.9,2.0e4]],"asks":[["new",3728.6,3.2e5],["delete",3728.8,0.0]],"prev_change_id":15574991534}}}
+2024-12-18 13:20:06 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508206440,"type":"change","change_id":15574991581,"instrument_name":"ETH-PERPETUAL","bids":[["new",3698.75,4.0e5],["new",3698.35,2.0e4],["delete",3698.1,0.0],["delete",3697.9,0.0]],"asks":[],"prev_change_id":15574991539}}}
+2024-12-18 13:20:06 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508206811,"type":"change","change_id":15574991592,"instrument_name":"ETH-PERPETUAL","bids":[["new",3698.95,4.0e5],["new",3698.85,2.0e4],["delete",3698.75,0.0],["delete",3698.35,0.0],["new",1857.0,1.0]],"asks":[["change",3728.45,3.4e5],["delete",3728.6,0.0]],"prev_change_id":15574991581}}}
+2024-12-18 13:20:07 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508206985,"type":"change","change_id":15574991602,"instrument_name":"ETH-PERPETUAL","bids":[["new",3699.1,3.2e5],["new",3699.05,5.0e3],["change",3698.95,8.0e4],["delete",3697.45,0.0]],"asks":[["new",3728.25,3.2e5],["change",3728.45,2.0e4]],"prev_change_id":15574991592}}}
+2024-12-18 13:20:07 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508207340,"type":"change","change_id":15574991644,"instrument_name":"ETH-PERPETUAL","bids":[["new",3699.3,3.2e5],["new",3699.2,1.0e5],["delete",3699.1,0.0],["delete",3698.95,0.0],["delete",3698.85,0.0]],"asks":[["new",3728.05,2.0e4],["new",3728.1,3.2e5],["delete",3728.25,0.0],["delete",3728.45,0.0]],"prev_change_id":15574991602}}}
+2024-12-18 13:20:07 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508207687,"type":"change","change_id":15574991679,"instrument_name":"ETH-PERPETUAL","bids":[["new",3699.5,3.4e5],["new",3699.4,8.0e4],["delete",3699.3,0.0],["delete",3699.2,0.0]],"asks":[["new",3727.9,3.2e5],["delete",3728.1,0.0]],"prev_change_id":15574991644}}}
+2024-12-18 13:20:08 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508208035,"type":"change","change_id":15574991689,"instrument_name":"ETH-PERPETUAL","bids":[["new",3699.65,3.2e5],["new",3699.55,8.0e4],["change",3699.5,2.0e4],["delete",3699.4,0.0]],"asks":[["new",3727.55,3.2e5],["new",3727.65,1.0e5],["delete",3727.8,0.0],["delete",3727.9,0.0],["delete",3728.05,0.0]],"prev_change_id":15574991679}}}
+2024-12-18 13:20:08 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508208432,"type":"change","change_id":15574991698,"instrument_name":"ETH-PERPETUAL","bids":[["new",3699.9,3.4e5],["new",3699.8,8.0e4],["delete",3699.65,0.0],["delete",3699.55,0.0],["delete",3699.5,0.0]],"asks":[["new",3727.4,4.0e5],["delete",3727.55,0.0],["change",3727.65,2.0e4]],"prev_change_id":15574991689}}}
+2024-12-18 13:20:08 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508208766,"type":"change","change_id":15574991707,"instrument_name":"ETH-PERPETUAL","bids":[["new",3700.1,3.2e5],["new",3.7e3,8.0e4],["change",3699.9,2.0e4],["delete",3699.8,0.0],["delete",1857.0,0.0]],"asks":[["new",3727.15,4.2e5],["delete",3727.4,0.0],["delete",3727.65,0.0]],"prev_change_id":15574991698}}}
+2024-12-18 13:20:09 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508209070,"type":"change","change_id":15574991717,"instrument_name":"ETH-PERPETUAL","bids":[["new",3700.25,4.2e5],["delete",3700.1,0.0],["delete",3.7e3,0.0],["delete",3699.9,0.0]],"asks":[["new",3727.0,3.2e5],["change",3727.15,1.0e5],["new",3851.9,5138351.0],["delete",3852.15,0.0]],"prev_change_id":15574991707}}}
+2024-12-18 13:20:09 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508209375,"type":"change","change_id":15574991727,"instrument_name":"ETH-PERPETUAL","bids":[["new",3700.5,4.0e5],["change",3700.25,2.0e4]],"asks":[["new",3726.75,2.0e4],["new",3726.85,4.0e5],["delete",3727.0,0.0],["delete",3727.15,0.0]],"prev_change_id":15574991717}}}
+2024-12-18 13:20:09 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508209773,"type":"change","change_id":15574991734,"instrument_name":"ETH-PERPETUAL","bids":[["new",3700.7,4.0e5],["new",3700.6,2.0e4],["delete",3700.5,0.0],["delete",3700.25,0.0]],"asks":[["new",3726.6,4.0e5],["delete",3726.85,0.0]],"prev_change_id":15574991727}}}
+2024-12-18 13:20:10 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508209947,"type":"change","change_id":15574991742,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3726.35,4.0e5],["new",3726.4,2.5e4],["delete",3726.6,0.0],["delete",3726.75,0.0],["delete",3729.45,0.0]],"prev_change_id":15574991734}}}
+2024-12-18 13:20:10 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508210220,"type":"change","change_id":15574991747,"instrument_name":"ETH-PERPETUAL","bids":[["new",3700.9,4.2e5],["delete",3700.7,0.0],["delete",3700.6,0.0]],"asks":[],"prev_change_id":15574991742}}}
+2024-12-18 13:20:10 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508210556,"type":"change","change_id":15574991765,"instrument_name":"ETH-PERPETUAL","bids":[["new",3701.05,3.2e5],["change",3700.9,1.0e5],["new",1857.0,1.0]],"asks":[["new",3726.1,4.0e5],["delete",3726.35,0.0]],"prev_change_id":15574991747}}}
+2024-12-18 13:20:11 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508211108,"type":"change","change_id":15574991776,"instrument_name":"ETH-PERPETUAL","bids":[["new",3701.4,3.4e5],["new",3701.25,8.0e4],["delete",3701.05,0.0],["delete",3700.9,0.0]],"asks":[["new",3725.8,4.2e5],["delete",3726.1,0.0],["change",3726.4,5.0e3]],"prev_change_id":15574991765}}}
+2024-12-18 13:20:11 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508211297,"type":"change","change_id":15574991787,"instrument_name":"ETH-PERPETUAL","bids":[["new",3701.5,8.0e4],["new",3701.45,5.0e3],["delete",3701.25,0.0],["delete",3699.05,0.0]],"asks":[],"prev_change_id":15574991776}}}
+2024-12-18 13:20:11 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508211657,"type":"change","change_id":15574991804,"instrument_name":"ETH-PERPETUAL","bids":[["new",3701.65,8.0e4],["new",3701.55,3.2e5],["delete",3701.5,0.0],["change",3701.4,2.0e4]],"asks":[["new",3725.6,4.0e5],["change",3725.8,2.0e4]],"prev_change_id":15574991787}}}
+2024-12-18 13:20:12 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508212052,"type":"change","change_id":15574991816,"instrument_name":"ETH-PERPETUAL","bids":[["new",3701.75,3.2e5],["new",3701.7,2.0e4],["delete",3701.55,0.0],["delete",3701.4,0.0]],"asks":[["new",3725.3,4.2e5],["delete",3725.6,0.0],["delete",3725.8,0.0]],"prev_change_id":15574991804}}}
+2024-12-18 13:20:12 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508212401,"type":"change","change_id":15574991830,"instrument_name":"ETH-PERPETUAL","bids":[["new",3701.85,8.0e4],["delete",3701.65,0.0]],"asks":[["new",3725.05,5.0e3],["new",3725.15,4.0e5],["change",3725.3,2.0e4],["delete",3726.4,0.0]],"prev_change_id":15574991816}}}
+2024-12-18 13:20:12 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508212726,"type":"change","change_id":15574991843,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.0,1.0e5],["new",3701.9,3.2e5],["delete",3701.85,0.0],["delete",3701.75,0.0],["delete",3701.7,0.0],["delete",1857.0,0.0]],"asks":[["new",3725.0,4.2e5],["delete",3725.15,0.0],["delete",3725.3,0.0]],"prev_change_id":15574991830}}}
+2024-12-18 13:20:13 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508213089,"type":"change","change_id":15574991852,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.05,3.2e5],["change",3702.0,1.05e5],["delete",3701.9,0.0],["delete",3701.45,0.0]],"asks":[["new",3724.75,4.2e5],["delete",3725.0,0.0]],"prev_change_id":15574991843}}}
+2024-12-18 13:20:13 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508213437,"type":"change","change_id":15574991902,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.2,4.0e5],["delete",3702.05,0.0],["change",3702.0,2.5e4]],"asks":[["new",3724.55,2.0e4],["new",3724.6,4.0e5],["delete",3724.75,0.0]],"prev_change_id":15574991852}}}
+2024-12-18 13:20:13 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508213636,"type":"change","change_id":15574991907,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.25,2.0e4],["change",3702.0,5.0e3]],"asks":[["new",3724.45,4.0e5],["delete",3724.6,0.0]],"prev_change_id":15574991902}}}
+2024-12-18 13:20:14 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508214010,"type":"change","change_id":15574991917,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3724.0,5.0e3],["new",3724.05,4.2e5],["delete",3724.45,0.0],["delete",3724.55,0.0],["delete",3725.05,0.0]],"prev_change_id":15574991907}}}
+2024-12-18 13:20:14 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508214396,"type":"change","change_id":15574991961,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.85,2.0e4],["new",3723.9,4.0e5],["delete",3724.05,0.0]],"prev_change_id":15574991917}}}
+2024-12-18 13:20:14 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508214715,"type":"change","change_id":15574992003,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.3,4.0e5],["change",3702.25,2.5e4],["delete",3702.2,0.0],["delete",3702.0,0.0],["new",1857.0,1.0]],"asks":[["new",3723.7,5.0e3],["new",3723.75,4.0e5],["delete",3723.9,0.0],["delete",3724.0,0.0]],"prev_change_id":15574991961}}}
+2024-12-18 13:20:15 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508215049,"type":"change","change_id":15574992021,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.25,5.0e3],["new",3723.3,4.2e5],["delete",3723.7,0.0],["delete",3723.75,0.0],["delete",3723.85,0.0]],"prev_change_id":15574992003}}}
+2024-12-18 13:20:15 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508215271,"type":"change","change_id":15574992024,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.0,4.2e5],["delete",3723.3,0.0]],"prev_change_id":15574992021}}}
+2024-12-18 13:20:15 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508215693,"type":"change","change_id":15574992103,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.95,5.0e3],["delete",3723.25,0.0],["new",3851.45,5138351.0],["delete",3851.9,0.0]],"prev_change_id":15574992024}}}
+2024-12-18 13:20:16 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508216566,"type":"change","change_id":15574992242,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[["new",3722.8,2.0e4],["new",3722.85,4.0e5],["delete",3723.0,0.0]],"prev_change_id":15574992103}}}
+2024-12-18 13:20:17 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508216913,"type":"change","change_id":15574992271,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.6,4.2e5],["delete",3722.8,0.0],["delete",3722.85,0.0]],"prev_change_id":15574992242}}}
+2024-12-18 13:20:17 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508217286,"type":"change","change_id":15574992279,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.4,3.2e5],["change",3702.3,8.0e4]],"asks":[["new",3722.5,4.0e5],["new",3722.55,5.0e3],["change",3722.6,2.0e4],["delete",3722.95,0.0]],"prev_change_id":15574992271}}}
+2024-12-18 13:20:17 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508217460,"type":"change","change_id":15574992283,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.45,1.0e5],["delete",3702.3,0.0],["change",3702.25,5.0e3]],"asks":[],"prev_change_id":15574992279}}}
+2024-12-18 13:20:18 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508217867,"type":"change","change_id":15574992297,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.5,3.25e5],["delete",3702.4,0.0],["delete",3702.25,0.0]],"asks":[["new",3722.3,8.0e4],["new",3722.4,3.4e5],["delete",3722.5,0.0],["delete",3722.6,0.0]],"prev_change_id":15574992283}}}
+2024-12-18 13:20:18 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508218160,"type":"change","change_id":15574992301,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.75,4.2e5],["change",3702.5,5.0e3],["delete",3702.45,0.0]],"asks":[],"prev_change_id":15574992297}}}
+2024-12-18 13:20:18 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508218567,"type":"change","change_id":15574992343,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.1,4.2e5],["delete",3702.75,0.0],["new",1857.0,1.0]],"asks":[],"prev_change_id":15574992301}}}
+2024-12-18 13:20:19 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508218840,"type":"change","change_id":15574992352,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.3,4.2e5],["new",3703.15,5.0e3],["delete",3703.1,0.0],["delete",3702.5,0.0]],"asks":[],"prev_change_id":15574992343}}}
+2024-12-18 13:20:19 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508219066,"type":"change","change_id":15574992358,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.4,3.25e5],["change",3703.3,1.0e5],["delete",3703.15,0.0]],"asks":[],"prev_change_id":15574992352}}}
+2024-12-18 13:20:19 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508219508,"type":"change","change_id":15574992447,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.5,3.2e5],["new",3703.45,1.0e5],["change",3703.4,5.0e3],["delete",3703.3,0.0]],"asks":[],"prev_change_id":15574992358}}}
+2024-12-18 13:20:20 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508219738,"type":"change","change_id":15574992473,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.7,4.2e5],["delete",3703.5,0.0],["delete",3703.45,0.0]],"asks":[],"prev_change_id":15574992447}}}
+2024-12-18 13:20:20 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508220235,"type":"change","change_id":15574992483,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.9,2.5e4],["new",3703.85,4.0e5],["delete",3703.7,0.0],["delete",3703.4,0.0]],"asks":[],"prev_change_id":15574992473}}}
+2024-12-18 13:20:20 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508220571,"type":"change","change_id":15574992496,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.1,4.25e5],["delete",3703.9,0.0],["delete",3703.85,0.0],["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574992483}}}
+2024-12-18 13:20:21 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508220776,"type":"change","change_id":15574992504,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.65,4.2e5],["change",3704.1,5.0e3]],"asks":[],"prev_change_id":15574992496}}}
+2024-12-18 13:20:21 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508221181,"type":"change","change_id":15574992518,"instrument_name":"ETH-PERPETUAL","bids":[["change",3704.65,4.25e5],["delete",3704.1,0.0]],"asks":[["change",3722.4,2.0e4],["new",3723.2,3.2e5]],"prev_change_id":15574992504}}}
+2024-12-18 13:20:22 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508221823,"type":"change","change_id":15574992776,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3722.3,0.0],["new",3723.65,8.0e4]],"prev_change_id":15574992518}}}
+2024-12-18 13:20:22 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508222330,"type":"change","change_id":15574992794,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3851.45,0.0],["new",3852.15,5138351.0]],"prev_change_id":15574992776}}}
+2024-12-18 13:20:22 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508222618,"type":"change","change_id":15574992806,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.8,4.2e5],["change",3704.65,5.0e3],["new",1857.0,1.0]],"asks":[],"prev_change_id":15574992794}}}
+2024-12-18 13:20:23 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508223285,"type":"change","change_id":15574992811,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.9,3.2e5],["change",3704.8,1.0e5]],"asks":[],"prev_change_id":15574992806}}}
+2024-12-18 13:20:23 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508223606,"type":"change","change_id":15574992812,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.35,8.0e4],["delete",3723.65,0.0]],"prev_change_id":15574992811}}}
+2024-12-18 13:20:24 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508224577,"type":"change","change_id":15574992922,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.25,4.2e5],["delete",3704.9,0.0],["delete",3704.8,0.0],["delete",1857.0,0.0]],"asks":[["new",3723.25,8.0e4],["delete",3723.35,0.0]],"prev_change_id":15574992812}}}
+2024-12-18 13:20:25 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508224907,"type":"change","change_id":15574992960,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.3,5.0e3],["delete",3704.65,0.0]],"asks":[],"prev_change_id":15574992922}}}
+2024-12-18 13:20:25 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508225261,"type":"change","change_id":15574992965,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.35,4.0e5],["change",3705.25,2.0e4]],"asks":[],"prev_change_id":15574992960}}}
+2024-12-18 13:20:26 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508226289,"type":"change","change_id":15574992978,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.15,8.0e4],["delete",3723.25,0.0]],"prev_change_id":15574992965}}}
+2024-12-18 13:20:26 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508226578,"type":"change","change_id":15574993003,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.45,2.0e4],["delete",3705.25,0.0],["new",1857.0,1.0]],"asks":[],"prev_change_id":15574992978}}}
+2024-12-18 13:20:27 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508226647,"type":"change","change_id":15574993006,"instrument_name":"ETH-PERPETUAL","bids":[["change",3705.45,3.4e5],["change",3705.35,8.0e4]],"asks":[["new",3723.05,3.2e5],["delete",3723.2,0.0]],"prev_change_id":15574993003}}}
+2024-12-18 13:20:27 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508227052,"type":"change","change_id":15574993010,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.9,4.0e5],["delete",3723.05,0.0],["delete",3723.15,0.0]],"prev_change_id":15574993006}}}
+2024-12-18 13:20:27 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508227405,"type":"change","change_id":15574993016,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.7,4.0e5],["delete",3722.9,0.0]],"prev_change_id":15574993010}}}
+2024-12-18 13:20:28 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508227880,"type":"change","change_id":15574993030,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.3,4.05e5],["delete",3722.55,0.0],["delete",3722.7,0.0]],"prev_change_id":15574993016}}}
+2024-12-18 13:20:28 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508228589,"type":"change","change_id":15574993035,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574993030}}}
+2024-12-18 13:20:29 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508228947,"type":"change","change_id":15574993039,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3852.15,0.0],["new",3852.65,5138351.0]],"prev_change_id":15574993035}}}
+2024-12-18 13:20:30 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508229996,"type":"change","change_id":15574993150,"instrument_name":"ETH-PERPETUAL","bids":[["change",3705.45,4.2e5],["delete",3705.35,0.0]],"asks":[["new",3722.25,2.0e4],["delete",3722.4,0.0]],"prev_change_id":15574993039}}}
+2024-12-18 13:20:30 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508230200,"type":"change","change_id":15574993152,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.2,3.2e5],["change",3722.3,8.5e4]],"prev_change_id":15574993150}}}
+2024-12-18 13:20:30 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508230643,"type":"change","change_id":15574993158,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.65,4.25e5],["delete",3705.45,0.0],["delete",3705.3,0.0]],"asks":[["change",3722.2,4.0e5],["change",3722.3,5.0e3]],"prev_change_id":15574993152}}}
+2024-12-18 13:20:31 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508231276,"type":"change","change_id":15574993169,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.75,3.2e5],["change",3705.65,1.05e5]],"asks":[],"prev_change_id":15574993158}}}
+2024-12-18 13:20:31 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508231521,"type":"change","change_id":15574993188,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.8,2.0e4],["change",3705.75,4.0e5],["change",3705.65,5.0e3]],"asks":[],"prev_change_id":15574993169}}}
+2024-12-18 13:20:32 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508231924,"type":"change","change_id":15574993189,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.85,3.2e5],["change",3705.75,8.0e4]],"asks":[],"prev_change_id":15574993188}}}
+2024-12-18 13:20:32 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508232172,"type":"change","change_id":15574993190,"instrument_name":"ETH-PERPETUAL","bids":[["change",3705.85,4.0e5],["delete",3705.75,0.0]],"asks":[],"prev_change_id":15574993189}}}
+2024-12-18 13:20:32 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508232409,"type":"change","change_id":15574993193,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.9,5.0e3],["delete",3705.65,0.0]],"asks":[],"prev_change_id":15574993190}}}
+2024-12-18 13:20:33 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508232693,"type":"change","change_id":15574993206,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.05,4.2e5],["delete",3705.85,0.0],["delete",3705.8,0.0]],"asks":[],"prev_change_id":15574993193}}}
+2024-12-18 13:20:33 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508233102,"type":"change","change_id":15574993213,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.15,3.25e5],["change",3706.05,1.0e5],["delete",3705.9,0.0]],"asks":[],"prev_change_id":15574993206}}}
+2024-12-18 13:20:33 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508233393,"type":"change","change_id":15574993220,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.65,4.2e5],["change",3706.15,5.0e3],["delete",3706.05,0.0]],"asks":[],"prev_change_id":15574993213}}}
+2024-12-18 13:20:34 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508233865,"type":"change","change_id":15574993272,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.7,5.0e3],["delete",3706.15,0.0]],"asks":[["change",3722.2,8.0e4],["new",3722.65,3.2e5]],"prev_change_id":15574993220}}}
+2024-12-18 13:20:34 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508234509,"type":"change","change_id":15574993317,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3722.65,0.0],["new",3723.2,3.2e5]],"prev_change_id":15574993272}}}
+2024-12-18 13:20:35 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508235060,"type":"change","change_id":15574993501,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.65,1.0e5],["new",3706.2,3.2e5]],"asks":[["delete",3722.2,0.0],["delete",3722.25,0.0],["delete",3723.2,0.0],["new",3723.5,8.0e4],["new",3723.75,3.4e5]],"prev_change_id":15574993317}}}
+2024-12-18 13:20:35 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508235316,"type":"change","change_id":15574993506,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3722.3,0.0],["new",3723.8,5.0e3]],"prev_change_id":15574993501}}}
+2024-12-18 13:20:35 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508235559,"type":"change","change_id":15574993571,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3852.65,0.0],["new",3854.0,5138351.0]],"prev_change_id":15574993506}}}
+2024-12-18 13:20:36 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508236212,"type":"change","change_id":15574993634,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.55,3.2e5],["delete",3706.2,0.0]],"asks":[],"prev_change_id":15574993571}}}
+2024-12-18 13:20:36 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508236213,"type":"change","change_id":15574993635,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3723.75,2.0e4],["new",3724.4,3.2e5]],"prev_change_id":15574993634}}}
+2024-12-18 13:20:36 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508236872,"type":"change","change_id":15574993657,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.65,4.2e5],["delete",3706.55,0.0]],"asks":[],"prev_change_id":15574993635}}}
+2024-12-18 13:20:37 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508236874,"type":"change","change_id":15574993658,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3724.3,3.2e5],["delete",3724.4,0.0]],"prev_change_id":15574993657}}}
+2024-12-18 13:20:37 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508237345,"type":"change","change_id":15574993660,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.75,3.2e5],["change",3706.65,1.0e5]],"asks":[],"prev_change_id":15574993658}}}
+2024-12-18 13:20:37 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508237568,"type":"change","change_id":15574993725,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.95,4.2e5],["delete",3706.75,0.0],["delete",3706.65,0.0]],"asks":[],"prev_change_id":15574993660}}}
+2024-12-18 13:20:38 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508238243,"type":"change","change_id":15574993760,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.05,3.2e5],["change",3706.95,1.0e5]],"asks":[],"prev_change_id":15574993725}}}
+2024-12-18 13:20:38 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508238517,"type":"change","change_id":15574993773,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.1,8.5e4],["change",3706.95,2.0e4],["delete",3706.7,0.0]],"asks":[["new",3724.2,3.2e5],["delete",3724.3,0.0]],"prev_change_id":15574993760}}}
+2024-12-18 13:20:39 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508238732,"type":"change","change_id":15574993774,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.95,3.2e5],["delete",3724.2,0.0]],"prev_change_id":15574993773}}}
+2024-12-18 13:20:39 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508239387,"type":"change","change_id":15574993776,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.85,3.2e5],["delete",3723.95,0.0]],"prev_change_id":15574993774}}}
+2024-12-18 13:20:39 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508239631,"type":"change","change_id":15574993791,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3723.75,3.4e5],["delete",3723.85,0.0]],"prev_change_id":15574993776}}}
+2024-12-18 13:20:40 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508239887,"type":"change","change_id":15574993794,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.15,2.0e4],["delete",3706.95,0.0]],"asks":[],"prev_change_id":15574993791}}}
+2024-12-18 13:20:40 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508240108,"type":"change","change_id":15574993796,"instrument_name":"ETH-PERPETUAL","bids":[["change",3707.15,3.4e5],["delete",3707.05,0.0]],"asks":[],"prev_change_id":15574993794}}}
+2024-12-18 13:20:40 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508240644,"type":"change","change_id":15574993807,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.4,4.25e5],["delete",3707.15,0.0],["delete",3707.1,0.0]],"asks":[["new",3723.65,3.2e5],["change",3723.75,2.0e4]],"prev_change_id":15574993796}}}
+2024-12-18 13:20:41 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508240882,"type":"change","change_id":15574993811,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.6,2.0e4],["delete",3723.75,0.0]],"prev_change_id":15574993807}}}
+2024-12-18 13:20:41 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508241113,"type":"change","change_id":15574993815,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.55,5.0e3],["delete",3723.8,0.0]],"prev_change_id":15574993811}}}
+2024-12-18 13:20:41 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508241585,"type":"change","change_id":15574993838,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[["change",3723.5,4.0e5],["delete",3723.65,0.0]],"prev_change_id":15574993815}}}
+2024-12-18 13:20:42 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508241952,"type":"change","change_id":15574993840,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.4,2.0e4],["delete",3723.6,0.0]],"prev_change_id":15574993838}}}
+2024-12-18 13:20:42 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508242410,"type":"change","change_id":15574993844,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.35,8.0e4],["change",3723.5,3.2e5]],"prev_change_id":15574993840}}}
+2024-12-18 13:20:42 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508242640,"type":"change","change_id":15574993860,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.55,1.0e5],["new",3707.5,3.2e5],["change",3707.4,5.0e3]],"asks":[["change",3723.35,4.0e5],["delete",3723.5,0.0]],"prev_change_id":15574993844}}}
+2024-12-18 13:20:43 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508242891,"type":"change","change_id":15574993864,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.3,5.0e3],["delete",3723.55,0.0]],"prev_change_id":15574993860}}}
+2024-12-18 13:20:43 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508243122,"type":"change","change_id":15574993868,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.6,3.2e5],["delete",3707.5,0.0]],"asks":[],"prev_change_id":15574993864}}}
+2024-12-18 13:20:43 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508243646,"type":"change","change_id":15574993894,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.7,8.0e4],["new",3707.65,5.0e3],["change",3707.55,2.0e4],["delete",3707.4,0.0],["delete",1857.0,0.0]],"asks":[["new",3723.25,4.2e5],["delete",3723.35,0.0],["delete",3723.4,0.0]],"prev_change_id":15574993868}}}
+2024-12-18 13:20:44 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508243878,"type":"change","change_id":15574993901,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.0,4.2e5],["delete",3707.7,0.0],["delete",3707.6,0.0],["delete",3707.55,0.0]],"asks":[],"prev_change_id":15574993894}}}
+2024-12-18 13:20:44 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508244138,"type":"change","change_id":15574993907,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.05,5.0e3],["delete",3707.65,0.0]],"asks":[],"prev_change_id":15574993901}}}
+2024-12-18 13:20:44 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508244564,"type":"change","change_id":15574993925,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.25,4.2e5],["delete",3708.0,0.0]],"asks":[],"prev_change_id":15574993907}}}
+2024-12-18 13:20:45 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508244772,"type":"change","change_id":15574993933,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3723.25,1.0e5],["new",3723.65,3.2e5]],"prev_change_id":15574993925}}}
+2024-12-18 13:20:45 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508245590,"type":"change","change_id":15574993993,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.3,5.0e3],["delete",3708.05,0.0],["new",1857.0,1.0]],"asks":[],"prev_change_id":15574993933}}}
+2024-12-18 13:20:46 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508245983,"type":"change","change_id":15574994098,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.35,4.0e5],["change",3708.25,2.0e4]],"asks":[],"prev_change_id":15574993993}}}
+2024-12-18 13:20:46 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508246372,"type":"change","change_id":15574994104,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.55,4.2e5],["delete",3708.35,0.0],["delete",3708.25,0.0]],"asks":[],"prev_change_id":15574994098}}}
+2024-12-18 13:20:46 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508246773,"type":"change","change_id":15574994127,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.6,5.0e3],["delete",3708.3,0.0]],"asks":[["delete",3723.65,0.0],["new",3724.0,3.2e5]],"prev_change_id":15574994104}}}
+2024-12-18 13:20:47 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508247254,"type":"change","change_id":15574994134,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.65,3.2e5],["change",3708.55,1.0e5]],"asks":[],"prev_change_id":15574994127}}}
+2024-12-18 13:20:47 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508247457,"type":"change","change_id":15574994135,"instrument_name":"ETH-PERPETUAL","bids":[["change",3708.65,4.0e5],["change",3708.55,2.0e4]],"asks":[],"prev_change_id":15574994134}}}
+2024-12-18 13:20:48 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508247647,"type":"change","change_id":15574994187,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.95,4.25e5],["delete",3708.65,0.0],["delete",3708.6,0.0],["delete",3708.55,0.0],["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574994135}}}
+2024-12-18 13:20:48 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508248515,"type":"change","change_id":15574994286,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3854.0,0.0],["new",3855.25,5138351.0]],"prev_change_id":15574994187}}}
+2024-12-18 13:20:48 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508248685,"type":"change","change_id":15574994293,"instrument_name":"ETH-PERPETUAL","bids":[["new",3709.1,4.0e5],["change",3708.95,2.5e4]],"asks":[],"prev_change_id":15574994286}}}
+2024-12-18 13:20:49 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508248900,"type":"change","change_id":15574994295,"instrument_name":"ETH-PERPETUAL","bids":[["change",3709.1,4.2e5],["change",3708.95,5.0e3]],"asks":[],"prev_change_id":15574994293}}}
+2024-12-18 13:20:49 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508249594,"type":"change","change_id":15574994314,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574994295}}}
+2024-12-18 13:20:50 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508250628,"type":"change","change_id":15574994349,"instrument_name":"ETH-PERPETUAL","bids":[["new",3709.25,4.25e5],["delete",3709.1,0.0],["delete",3708.95,0.0]],"asks":[],"prev_change_id":15574994314}}}
+2024-12-18 13:20:51 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508251600,"type":"change","change_id":15574994361,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574994349}}}
+2024-12-18 13:20:52 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508251912,"type":"change","change_id":15574994365,"instrument_name":"ETH-PERPETUAL","bids":[["change",3709.25,1.05e5],["new",3708.6,3.2e5]],"asks":[["change",3723.3,3.25e5],["delete",3724.0,0.0]],"prev_change_id":15574994361}}}
+2024-12-18 13:20:52 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508252619,"type":"change","change_id":15574994386,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.75,3.2e5],["delete",3708.6,0.0]],"asks":[],"prev_change_id":15574994365}}}
+2024-12-18 13:20:53 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508253600,"type":"change","change_id":15574994394,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574994386}}}
+2024-12-18 13:20:55 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508254686,"type":"change","change_id":15574994436,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.2,3.2e5],["change",3723.3,5.0e3]],"prev_change_id":15574994394}}}
+2024-12-18 13:20:56 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508255835,"type":"change","change_id":15574994541,"instrument_name":"ETH-PERPETUAL","bids":[["new",3708.95,3.2e5],["delete",3708.75,0.0],["delete",1857.0,0.0]],"asks":[["new",3723.15,8.0e4],["delete",3723.2,0.0],["change",3723.25,2.0e4],["new",3723.5,3.2e5]],"prev_change_id":15574994436}}}
+2024-12-18 13:20:57 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508256655,"type":"change","change_id":15574994572,"instrument_name":"ETH-PERPETUAL","bids":[["new",3709.05,3.2e5],["delete",3708.95,0.0]],"asks":[],"prev_change_id":15574994541}}}
+2024-12-18 13:20:58 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508257719,"type":"change","change_id":15574994608,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[["change",3723.3,3.25e5],["delete",3723.5,0.0]],"prev_change_id":15574994572}}}
+2024-12-18 13:20:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508258894,"type":"change","change_id":15574994616,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.2,3.2e5],["change",3723.3,5.0e3]],"prev_change_id":15574994608}}}
+2024-12-18 13:20:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508259292,"type":"change","change_id":15574994617,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.9,8.0e4],["delete",3723.15,0.0]],"prev_change_id":15574994616}}}
+2024-12-18 13:20:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508259613,"type":"change","change_id":15574994628,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3709.05,0.0],["new",3708.1,3.2e5],["delete",1857.0,0.0]],"asks":[["new",3722.25,1.0e5],["new",3722.3,3.2e5],["change",3722.9,5.0e3],["delete",3723.2,0.0],["delete",3723.25,0.0],["delete",3723.3,0.0]],"prev_change_id":15574994617}}}
+2024-12-18 13:21:00 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508259875,"type":"change","change_id":15574994654,"instrument_name":"ETH-PERPETUAL","bids":[["change",3709.25,2.5e4],["delete",3708.1,0.0],["new",3707.85,8.0e4],["new",3707.8,3.2e5]],"asks":[["change",3722.25,1.05e5],["delete",3722.3,0.0],["new",3722.55,3.2e5],["delete",3722.9,0.0]],"prev_change_id":15574994628}}}
+2024-12-18 13:21:00 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508260138,"type":"change","change_id":15574994662,"instrument_name":"ETH-PERPETUAL","bids":[["change",3709.25,5.0e3],["delete",3707.8,0.0],["new",3707.55,3.4e5]],"asks":[["delete",3722.55,0.0],["new",3722.8,3.2e5]],"prev_change_id":15574994654}}}
+2024-12-18 13:21:00 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508260343,"type":"change","change_id":15574994666,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3709.25,0.0],["new",3707.45,5.0e3]],"asks":[],"prev_change_id":15574994662}}}
+2024-12-18 13:21:01 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508260767,"type":"change","change_id":15574994750,"instrument_name":"ETH-PERPETUAL","bids":[["change",3707.55,2.0e4],["new",3706.9,3.2e5]],"asks":[["new",3722.7,3.2e5],["delete",3722.8,0.0]],"prev_change_id":15574994666}}}
+2024-12-18 13:21:01 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508261202,"type":"change","change_id":15574994949,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3707.85,0.0],["delete",3706.9,0.0],["new",3706.45,4.0e5]],"asks":[["delete",3722.7,0.0],["new",3723.15,3.2e5]],"prev_change_id":15574994750}}}
+2024-12-18 13:21:01 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508261475,"type":"change","change_id":15574994957,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3707.55,0.0],["change",3706.45,8.0e4],["new",3706.05,3.4e5]],"asks":[["change",3722.25,2.5e4],["delete",3723.15,0.0],["new",3723.55,4.0e5],["new",3853.3,5138351.0],["delete",3855.25,0.0]],"prev_change_id":15574994949}}}
+2024-12-18 13:21:02 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508261844,"type":"change","change_id":15574995039,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3707.45,0.0],["new",3705.8,5.0e3],["new",1857.0,1.0]],"asks":[["change",3722.25,5.0e3],["change",3723.55,8.0e4],["new",3724.05,3.4e5]],"prev_change_id":15574994957}}}
+2024-12-18 13:21:02 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508262056,"type":"change","change_id":15574995043,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.05,2.0e4],["new",3705.5,3.2e5]],"asks":[],"prev_change_id":15574995039}}}
+2024-12-18 13:21:03 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508263619,"type":"change","change_id":15574995091,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574995043}}}
+2024-12-18 13:21:04 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508264250,"type":"change","change_id":15574995125,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.5,3.4e5],["delete",3724.05,0.0]],"prev_change_id":15574995091}}}
+2024-12-18 13:21:05 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508264874,"type":"change","change_id":15574995232,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.45,0.0],["delete",3705.5,0.0],["new",3704.6,4.0e5]],"asks":[["new",3722.8,4.2e5],["delete",3723.5,0.0],["delete",3723.55,0.0]],"prev_change_id":15574995125}}}
+2024-12-18 13:21:05 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508265269,"type":"change","change_id":15574995267,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.05,0.0],["change",3704.6,8.0e4],["new",3704.2,3.4e5]],"asks":[["change",3722.8,1.0e5],["new",3723.35,3.2e5]],"prev_change_id":15574995232}}}
+2024-12-18 13:21:05 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508265620,"type":"change","change_id":15574995277,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3705.8,0.0],["change",3704.2,2.0e4],["new",3703.6,5.0e3],["new",3703.55,3.2e5],["new",1857.0,1.0]],"asks":[],"prev_change_id":15574995267}}}
+2024-12-18 13:21:06 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508265810,"type":"change","change_id":15574995364,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3704.6,0.0],["new",3703.0,8.0e4]],"asks":[],"prev_change_id":15574995277}}}
+2024-12-18 13:21:06 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508266206,"type":"change","change_id":15574995498,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3703.55,0.0],["new",3702.8,3.2e5]],"asks":[],"prev_change_id":15574995364}}}
+2024-12-18 13:21:07 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508266770,"type":"change","change_id":15574995511,"instrument_name":"ETH-PERPETUAL","bids":[["new",3702.95,3.2e5],["delete",3702.8,0.0]],"asks":[["delete",3723.35,0.0],["new",3724.4,3.2e5]],"prev_change_id":15574995498}}}
+2024-12-18 13:21:07 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508267299,"type":"change","change_id":15574995523,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.2,4.0e5],["delete",3703.0,0.0],["delete",3702.95,0.0]],"asks":[],"prev_change_id":15574995511}}}
+2024-12-18 13:21:07 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508267626,"type":"change","change_id":15574995531,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[["change",3722.8,2.0e4],["new",3724.6,8.0e4]],"prev_change_id":15574995523}}}
+2024-12-18 13:21:08 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508267800,"type":"change","change_id":15574995586,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3724.45,8.0e4],["delete",3724.6,0.0]],"prev_change_id":15574995531}}}
+2024-12-18 13:21:08 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508268202,"type":"change","change_id":15574995605,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3724.25,4.0e5],["delete",3724.4,0.0],["delete",3724.45,0.0],["new",3852.1,5138351.0],["delete",3853.3,0.0]],"prev_change_id":15574995586}}}
+2024-12-18 13:21:09 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508268709,"type":"change","change_id":15574995617,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3724.0,4.0e5],["delete",3724.25,0.0]],"prev_change_id":15574995605}}}
+2024-12-18 13:21:09 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508269221,"type":"change","change_id":15574995639,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.4,4.0e5],["delete",3703.2,0.0]],"asks":[["new",3723.9,3.2e5],["change",3724.0,8.0e4]],"prev_change_id":15574995617}}}
+2024-12-18 13:21:09 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508269627,"type":"change","change_id":15574995652,"instrument_name":"ETH-PERPETUAL","bids":[["change",3703.6,4.05e5],["delete",3703.4,0.0],["new",1857.0,1.0]],"asks":[["new",3723.85,8.0e4],["delete",3724.0,0.0]],"prev_change_id":15574995639}}}
+2024-12-18 13:21:10 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508269778,"type":"change","change_id":15574995682,"instrument_name":"ETH-PERPETUAL","bids":[["new",3703.85,4.05e5],["delete",3703.6,0.0]],"asks":[],"prev_change_id":15574995652}}}
+2024-12-18 13:21:10 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508270276,"type":"change","change_id":15574995694,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.0,8.0e4],["new",3703.95,3.2e5],["change",3703.85,5.0e3]],"asks":[],"prev_change_id":15574995682}}}
+2024-12-18 13:21:10 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508270645,"type":"change","change_id":15574995704,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.1,8.0e4],["new",3704.05,3.25e5],["delete",3704.0,0.0],["delete",3703.95,0.0],["delete",3703.85,0.0]],"asks":[["new",3723.75,3.2e5],["delete",3723.9,0.0]],"prev_change_id":15574995694}}}
+2024-12-18 13:21:11 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508270827,"type":"change","change_id":15574995749,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3723.55,4.0e5],["delete",3723.75,0.0],["delete",3723.85,0.0]],"prev_change_id":15574995704}}}
+2024-12-18 13:21:11 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508271257,"type":"change","change_id":15574995781,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.15,3.2e5],["change",3704.05,5.0e3]],"asks":[["new",3723.4,8.0e4],["new",3723.45,3.2e5],["delete",3723.55,0.0]],"prev_change_id":15574995749}}}
+2024-12-18 13:21:11 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508271633,"type":"change","change_id":15574995792,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.25,3.2e5],["change",3704.2,1.0e5],["delete",3704.15,0.0],["delete",3704.1,0.0],["delete",1857.0,0.0]],"asks":[["new",3723.25,8.0e4],["new",3723.3,3.2e5],["delete",3723.4,0.0],["delete",3723.45,0.0]],"prev_change_id":15574995781}}}
+2024-12-18 13:21:12 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508271800,"type":"change","change_id":15574995797,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.55,4.25e5],["delete",3704.25,0.0],["delete",3704.2,0.0],["delete",3704.05,0.0]],"asks":[],"prev_change_id":15574995792}}}
+2024-12-18 13:21:12 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508272254,"type":"change","change_id":15574995812,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.7,1.0e5],["new",3704.65,3.2e5],["change",3704.55,5.0e3]],"asks":[],"prev_change_id":15574995797}}}
+2024-12-18 13:21:12 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508272592,"type":"change","change_id":15574995819,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.75,3.25e5],["delete",3704.65,0.0],["delete",3704.55,0.0]],"asks":[["new",3723.1,4.0e5],["delete",3723.25,0.0],["delete",3723.3,0.0]],"prev_change_id":15574995812}}}
+2024-12-18 13:21:13 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508272810,"type":"change","change_id":15574995842,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.8,8.0e4],["change",3704.7,2.0e4]],"asks":[],"prev_change_id":15574995819}}}
+2024-12-18 13:21:13 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508273282,"type":"change","change_id":15574995857,"instrument_name":"ETH-PERPETUAL","bids":[["new",3704.95,8.0e4],["new",3704.9,3.4e5],["delete",3704.8,0.0],["change",3704.75,5.0e3],["delete",3704.7,0.0]],"asks":[["new",3722.95,4.0e5],["delete",3723.1,0.0]],"prev_change_id":15574995842}}}
+2024-12-18 13:21:14 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508273508,"type":"change","change_id":15574995864,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.4,4.2e5],["delete",3704.95,0.0],["delete",3704.9,0.0]],"asks":[],"prev_change_id":15574995857}}}
+2024-12-18 13:21:14 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508273908,"type":"change","change_id":15574995883,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.5,4.0e5],["new",3705.45,5.0e3],["change",3705.4,2.0e4],["delete",3704.75,0.0],["new",1857.0,1.0]],"asks":[],"prev_change_id":15574995864}}}
+2024-12-18 13:21:14 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508274099,"type":"change","change_id":15574995885,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.55,2.0e4],["delete",3705.4,0.0]],"asks":[],"prev_change_id":15574995883}}}
+2024-12-18 13:21:14 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508274512,"type":"change","change_id":15574995897,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.65,5.0e3],["new",3705.6,4.0e5],["delete",3705.5,0.0],["delete",3705.45,0.0]],"asks":[["new",3722.85,3.2e5],["change",3722.95,8.0e4]],"prev_change_id":15574995885}}}
+2024-12-18 13:21:15 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508274875,"type":"change","change_id":15574995946,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.75,4.2e5],["delete",3705.6,0.0],["delete",3705.55,0.0]],"asks":[["new",3722.45,4.2e5],["delete",3722.8,0.0],["delete",3722.85,0.0],["delete",3722.95,0.0],["delete",3852.1,0.0],["new",3852.2,5138351.0]],"prev_change_id":15574995897}}}
+2024-12-18 13:21:15 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508275382,"type":"change","change_id":15574995952,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3722.35,3.2e5],["change",3722.45,1.0e5]],"prev_change_id":15574995946}}}
+2024-12-18 13:21:15 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508275645,"type":"change","change_id":15574995958,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[["new",3722.1,4.2e5],["delete",3722.35,0.0],["delete",3722.45,0.0]],"prev_change_id":15574995952}}}
+2024-12-18 13:21:16 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508275836,"type":"change","change_id":15574995975,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.9,4.0e5],["change",3722.1,2.0e4]],"prev_change_id":15574995958}}}
+2024-12-18 13:21:16 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508276080,"type":"change","change_id":15574995981,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.85,2.0e4],["change",3721.9,4.05e5],["delete",3722.1,0.0],["delete",3722.25,0.0]],"prev_change_id":15574995975}}}
+2024-12-18 13:21:16 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508276624,"type":"change","change_id":15574995986,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.75,8.0e4],["new",3721.8,3.2e5],["change",3721.9,5.0e3]],"prev_change_id":15574995981}}}
+2024-12-18 13:21:17 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508277685,"type":"change","change_id":15574996056,"instrument_name":"ETH-PERPETUAL","bids":[["new",3705.85,3.2e5],["change",3705.75,1.0e5]],"asks":[],"prev_change_id":15574995986}}}
+2024-12-18 13:21:18 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508277868,"type":"change","change_id":15574996069,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.05,4.2e5],["change",3705.85,5.0e3],["delete",3705.75,0.0],["delete",3705.65,0.0]],"asks":[],"prev_change_id":15574996056}}}
+2024-12-18 13:21:18 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508278044,"type":"change","change_id":15574996075,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.05,4.25e5],["delete",3705.85,0.0]],"asks":[],"prev_change_id":15574996069}}}
+2024-12-18 13:21:18 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508278606,"type":"change","change_id":15574996084,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.15,3.2e5],["change",3706.05,1.05e5]],"asks":[],"prev_change_id":15574996075}}}
+2024-12-18 13:21:19 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508278837,"type":"change","change_id":15574996112,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.55,4.25e5],["delete",3721.75,0.0],["delete",3721.8,0.0],["delete",3721.85,0.0],["delete",3721.9,0.0]],"prev_change_id":15574996084}}}
+2024-12-18 13:21:20 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508279773,"type":"change","change_id":15574996129,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.35,4.25e5],["delete",3706.15,0.0],["delete",3706.05,0.0]],"asks":[],"prev_change_id":15574996112}}}
+2024-12-18 13:21:20 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508280739,"type":"change","change_id":15574996143,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.45,3.2e5],["change",3706.35,1.05e5]],"asks":[],"prev_change_id":15574996129}}}
+2024-12-18 13:21:21 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508280897,"type":"change","change_id":15574996168,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.3,4.25e5],["delete",3721.55,0.0]],"prev_change_id":15574996143}}}
+2024-12-18 13:21:22 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508282179,"type":"change","change_id":15574996206,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.45,4.0e5],["change",3706.35,2.5e4]],"asks":[],"prev_change_id":15574996168}}}
+2024-12-18 13:21:22 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508282571,"type":"change","change_id":15574996210,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.5,2.0e4],["change",3706.35,5.0e3]],"asks":[],"prev_change_id":15574996206}}}
+2024-12-18 13:21:23 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508282820,"type":"change","change_id":15574996234,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.15,4.2e5],["change",3721.3,5.0e3]],"prev_change_id":15574996210}}}
+2024-12-18 13:21:23 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508283212,"type":"change","change_id":15574996254,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.1,5.0e3],["delete",3721.3,0.0]],"prev_change_id":15574996234}}}
+2024-12-18 13:21:23 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508283742,"type":"change","change_id":15574996257,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3721.05,3.2e5],["change",3721.15,1.0e5]],"prev_change_id":15574996254}}}
+2024-12-18 13:21:24 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508283918,"type":"change","change_id":15574996262,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.7,4.25e5],["delete",3706.5,0.0],["delete",3706.45,0.0],["delete",3706.35,0.0]],"asks":[],"prev_change_id":15574996257}}}
+2024-12-18 13:21:24 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508284632,"type":"change","change_id":15574996275,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.8,3.2e5],["change",3706.7,1.05e5]],"asks":[],"prev_change_id":15574996262}}}
+2024-12-18 13:21:25 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508284800,"type":"change","change_id":15574996280,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.8,4.0e5],["change",3706.7,2.5e4]],"asks":[],"prev_change_id":15574996275}}}
+2024-12-18 13:21:25 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508284986,"type":"change","change_id":15574996309,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.85,2.0e4],["change",3706.7,5.0e3]],"asks":[],"prev_change_id":15574996280}}}
+2024-12-18 13:21:26 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508285963,"type":"change","change_id":15574996317,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.9,3.2e5],["change",3706.8,8.0e4]],"asks":[],"prev_change_id":15574996309}}}
+2024-12-18 13:21:26 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508286129,"type":"change","change_id":15574996319,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.9,4.05e5],["delete",3706.8,0.0],["delete",3706.7,0.0]],"asks":[],"prev_change_id":15574996317}}}
+2024-12-18 13:21:27 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508286838,"type":"change","change_id":15574996327,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3721.05,4.0e5],["change",3721.15,2.0e4]],"prev_change_id":15574996319}}}
+2024-12-18 13:21:27 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508287419,"type":"change","change_id":15574996337,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.85,5.0e3],["new",3720.9,4.2e5],["delete",3721.05,0.0],["delete",3721.1,0.0],["delete",3721.15,0.0]],"prev_change_id":15574996327}}}
+2024-12-18 13:21:27 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508287778,"type":"change","change_id":15574996339,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.7,8.0e4],["change",3720.9,3.4e5]],"prev_change_id":15574996337}}}
+2024-12-18 13:21:28 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508287781,"type":"change","change_id":15574996342,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.9,8.5e4],["new",3706.6,3.2e5]],"asks":[["change",3720.7,4.2e5],["delete",3720.9,0.0]],"prev_change_id":15574996339}}}
+2024-12-18 13:21:28 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508288641,"type":"change","change_id":15574996385,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574996342}}}
+2024-12-18 13:21:29 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508288774,"type":"change","change_id":15574996386,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.8,3.2e5],["delete",3706.6,0.0]],"asks":[],"prev_change_id":15574996385}}}
+2024-12-18 13:21:30 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508289830,"type":"change","change_id":15574996417,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.6,4.05e5],["change",3720.7,2.0e4],["delete",3720.85,0.0]],"prev_change_id":15574996386}}}
+2024-12-18 13:21:30 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508290565,"type":"change","change_id":15574996422,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.55,2.0e4],["delete",3720.7,0.0]],"prev_change_id":15574996417}}}
+2024-12-18 13:21:31 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508290894,"type":"change","change_id":15574996447,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.8,0.0],["new",3706.5,3.2e5],["delete",1857.0,0.0]],"asks":[["new",3720.4,4.2e5],["delete",3720.55,0.0],["change",3720.6,5.0e3]],"prev_change_id":15574996422}}}
+2024-12-18 13:21:31 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508290896,"type":"change","change_id":15574996450,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3720.4,4.25e5],["delete",3720.6,0.0]],"prev_change_id":15574996447}}}
+2024-12-18 13:21:31 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508291801,"type":"change","change_id":15574996458,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.25,8.0e4],["change",3720.4,3.45e5]],"prev_change_id":15574996450}}}
+2024-12-18 13:21:32 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508291803,"type":"change","change_id":15574996461,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3720.25,4.2e5],["change",3720.4,5.0e3]],"prev_change_id":15574996458}}}
+2024-12-18 13:21:32 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508292151,"type":"change","change_id":15574996480,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.5,0.0],["new",3706.35,3.2e5]],"asks":[],"prev_change_id":15574996461}}}
+2024-12-18 13:21:32 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508292648,"type":"change","change_id":15574996482,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574996480}}}
+2024-12-18 13:21:33 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508292847,"type":"change","change_id":15574996493,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3720.25,1.0e5],["new",3720.5,3.2e5]],"prev_change_id":15574996482}}}
+2024-12-18 13:21:33 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508293280,"type":"change","change_id":15574996628,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.45,3.2e5],["delete",3706.35,0.0]],"asks":[],"prev_change_id":15574996493}}}
+2024-12-18 13:21:34 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508294080,"type":"change","change_id":15574996634,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.55,3.2e5],["delete",3706.45,0.0]],"asks":[],"prev_change_id":15574996628}}}
+2024-12-18 13:21:34 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508294656,"type":"change","change_id":15574996635,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574996634}}}
+2024-12-18 13:21:35 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508295281,"type":"change","change_id":15574996684,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3720.4,3.25e5],["delete",3720.5,0.0]],"prev_change_id":15574996635}}}
+2024-12-18 13:21:36 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508296657,"type":"change","change_id":15574996690,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574996684}}}
+2024-12-18 13:21:37 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508297766,"type":"change","change_id":15574996695,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.7,3.2e5],["delete",3706.55,0.0]],"asks":[],"prev_change_id":15574996690}}}
+2024-12-18 13:21:38 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508298663,"type":"change","change_id":15574996732,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574996695}}}
+2024-12-18 13:21:39 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508298797,"type":"change","change_id":15574996734,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.95,3.2e5],["delete",3706.7,0.0]],"asks":[["change",3720.4,5.0e3],["new",3720.75,3.2e5]],"prev_change_id":15574996732}}}
+2024-12-18 13:21:39 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508299467,"type":"change","change_id":15574996745,"instrument_name":"ETH-PERPETUAL","bids":[["new",3707.0,2.0e4],["delete",3706.85,0.0]],"asks":[],"prev_change_id":15574996734}}}
+2024-12-18 13:21:40 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508300664,"type":"change","change_id":15574996835,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574996745}}}
+2024-12-18 13:21:41 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508301078,"type":"change","change_id":15574996836,"instrument_name":"ETH-PERPETUAL","bids":[["change",3707.0,1.0e5],["change",3706.9,5.0e3]],"asks":[],"prev_change_id":15574996835}}}
+2024-12-18 13:21:41 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508301509,"type":"change","change_id":15574996837,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.65,3.2e5],["delete",3720.75,0.0]],"prev_change_id":15574996836}}}
+2024-12-18 13:21:42 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508302672,"type":"change","change_id":15574996849,"instrument_name":"ETH-PERPETUAL","bids":[["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574996837}}}
+2024-12-18 13:21:43 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508303766,"type":"change","change_id":15574996860,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3720.4,3.25e5],["delete",3720.65,0.0]],"prev_change_id":15574996849}}}
+2024-12-18 13:21:44 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508303767,"type":"change","change_id":15574996861,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.95,0.0],["new",3706.7,3.2e5]],"asks":[],"prev_change_id":15574996860}}}
+2024-12-18 13:21:44 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508304379,"type":"change","change_id":15574996926,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.7,0.0],["new",3706.45,3.2e5]],"asks":[["new",3720.1,8.0e4],["new",3720.15,3.2e5],["change",3720.25,2.0e4],["change",3720.4,5.0e3]],"prev_change_id":15574996861}}}
+2024-12-18 13:21:44 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508304675,"type":"change","change_id":15574996929,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574996926}}}
+2024-12-18 13:21:45 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508305735,"type":"change","change_id":15574996938,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.05,2.0e4],["delete",3720.25,0.0]],"prev_change_id":15574996929}}}
+2024-12-18 13:21:46 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508306682,"type":"change","change_id":15574997041,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3851.9,5138351.0],["delete",3852.2,0.0]],"prev_change_id":15574996938}}}
+2024-12-18 13:21:47 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508307782,"type":"change","change_id":15574997043,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.55,3.2e5],["delete",3706.45,0.0]],"asks":[],"prev_change_id":15574997041}}}
+2024-12-18 13:21:48 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508308846,"type":"change","change_id":15574997052,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.7,3.2e5],["delete",3706.55,0.0]],"asks":[],"prev_change_id":15574997043}}}
+2024-12-18 13:21:49 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508308847,"type":"change","change_id":15574997053,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3720.15,0.0],["new",3720.35,3.2e5]],"prev_change_id":15574997052}}}
+2024-12-18 13:21:49 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508309776,"type":"change","change_id":15574997072,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.8,3.2e5],["delete",3706.7,0.0]],"asks":[],"prev_change_id":15574997053}}}
+2024-12-18 13:21:51 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508311767,"type":"change","change_id":15574997124,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.9,3.25e5],["delete",3706.8,0.0]],"asks":[],"prev_change_id":15574997072}}}
+2024-12-18 13:21:52 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508312850,"type":"change","change_id":15574997152,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.9,5.0e3],["new",3706.7,3.2e5]],"asks":[],"prev_change_id":15574997124}}}
+2024-12-18 13:21:55 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508315587,"type":"change","change_id":15574997186,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.15,3.25e5],["delete",3720.35,0.0],["delete",3720.4,0.0]],"prev_change_id":15574997152}}}
+2024-12-18 13:21:56 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508315886,"type":"change","change_id":15574997190,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.7,0.0],["new",3706.35,3.2e5]],"asks":[["new",3719.95,4.0e5],["delete",3720.1,0.0],["change",3720.15,5.0e3]],"prev_change_id":15574997186}}}
+2024-12-18 13:21:57 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508317106,"type":"change","change_id":15574997277,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3719.9,2.0e4],["delete",3720.05,0.0]],"prev_change_id":15574997190}}}
+2024-12-18 13:21:57 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508317334,"type":"change","change_id":15574997317,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["change",3719.9,2.5e4],["delete",3720.15,0.0]],"prev_change_id":15574997277}}}
+2024-12-18 13:21:58 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508318562,"type":"change","change_id":15574997333,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.6,3.2e5],["delete",3706.35,0.0]],"asks":[["change",3719.95,8.0e4],["new",3720.25,3.2e5]],"prev_change_id":15574997317}}}
+2024-12-18 13:21:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508318934,"type":"change","change_id":15574997338,"instrument_name":"ETH-PERPETUAL","bids":[["new",3706.8,3.2e5],["delete",3706.6,0.0],["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574997333}}}
+2024-12-18 13:21:59 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508319176,"type":"change","change_id":15574997391,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["delete",3720.25,0.0],["new",3720.5,3.2e5]],"prev_change_id":15574997338}}}
+2024-12-18 13:22:00 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508320681,"type":"change","change_id":15574997516,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574997391}}}
+2024-12-18 13:22:01 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508321201,"type":"change","change_id":15574997519,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.9,3.25e5],["delete",3706.8,0.0]],"asks":[["delete",3720.5,0.0],["new",3720.75,3.2e5]],"prev_change_id":15574997516}}}
+2024-12-18 13:22:02 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508322331,"type":"change","change_id":15574997525,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.5,3.2e5],["delete",3720.75,0.0]],"prev_change_id":15574997519}}}
+2024-12-18 13:22:02 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508322687,"type":"change","change_id":15574997529,"instrument_name":"ETH-PERPETUAL","bids":[["change",3706.9,5.0e3],["new",3706.65,3.2e5],["delete",1857.0,0.0]],"asks":[],"prev_change_id":15574997525}}}
+2024-12-18 13:22:03 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508322822,"type":"change","change_id":15574997530,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.25,3.2e5],["delete",3720.5,0.0]],"prev_change_id":15574997529}}}
+2024-12-18 13:22:03 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508323146,"type":"change","change_id":15574997566,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.65,0.0],["new",3706.45,3.2e5]],"asks":[],"prev_change_id":15574997530}}}
+2024-12-18 13:22:03 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508323394,"type":"change","change_id":15574997572,"instrument_name":"ETH-PERPETUAL","bids":[["delete",3706.45,0.0],["new",3706.3,3.2e5]],"asks":[["delete",3720.25,0.0],["new",3720.45,3.2e5]],"prev_change_id":15574997566}}}
+2024-12-18 13:22:04 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508324688,"type":"change","change_id":15574997704,"instrument_name":"ETH-PERPETUAL","bids":[["new",1857.0,1.0]],"asks":[],"prev_change_id":15574997572}}}
+2024-12-18 13:22:05 | Received WebSocket message: {"jsonrpc":"2.0","method":"subscription","params":{"channel":"book.ETH-PERPETUAL.100ms","data":{"timestamp":1734508325560,"type":"change","change_id":15574997706,"instrument_name":"ETH-PERPETUAL","bids":[],"asks":[["new",3720.3,3.2e5],["delete",3720.45,0.0]],"prev_change_id":15574997704}}}
