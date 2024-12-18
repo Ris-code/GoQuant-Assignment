@@ -401,3 +401,29 @@ The optimizations and benchmarking strategies are directly integrated into the p
 The performance analysis and optimization initiatives have significantly enhanced **DeribitTrader**'s efficiency and responsiveness. By meticulously benchmarking critical latency metrics and implementing targeted optimizations across memory management, network communication, data structures, thread management, and CPU utilization, the application now operates with reduced latency and improved resource utilization. Ongoing monitoring and iterative optimizations will further solidify **DeribitTrader**'s position as a high-performance trading tool.
 
 ---
+
+## Installation And Setup
+
+### Clone the repository and move to project directory.
+```bash
+git clone https://github.com/Ris-code/GoQuant-Assignment.git
+cd GoQuant-Assignment
+```
+### Install some third party libraries in the ```libs``` directory.
+
+```bash
+git clone https://github.com/nlohmann/json.git libs/json
+```
+```bash
+git clone https://github.com/zaphoyd/websocketpp.git libs/websocketpp
+```
+
+### Build the project.
+```bash
+mkdir build && cd build && cmake .. && make
+```
+
+### Execute the program.
+```bash
+./GoQuant-Assignment
+```
